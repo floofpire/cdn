@@ -11,6 +11,10 @@ The file `index.json` (or `index.min.json`) contains the lists of all the assets
 ```
 https://raw.githubusercontent.com/afk-mine/cdn/main/index.json
 ```
+There is also `unit.json` (or `index.min.json`) file that contains the list of every unit available in the game. It contains the ID and the code names that you might need to use the CDN.
+```
+https://raw.githubusercontent.com/afk-mine/cdn/main/unit.json
+```
 Then, there are two folders that contain the original assets `unit_icon` and `unit_icon_by_id`. The first folder contains the assets with their original names, while the second folder contains the assets with their ID as names.
 A third folder, `framed_unit_icon`, contains all the heroes and pets icons framed the same way as in the game.
 
