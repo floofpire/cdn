@@ -69,7 +69,8 @@ Here are some examples:
 178_a_si30_f36_2x.webp
 ```
 
-With all the combinations possible, `437` icons were generated per hero. With the `2x` upscaling, `874` icons are available. 
+With all the combinations possible, `437` icons were generated per hero. With the `2x` upscaling, `874` icons are available.
+An example script to generate the name [is available in the scripts folder](https://github.com/afk-mine/cdn/blob/main/scripts/nameGenerator.ts).
 
 #### Pets
 For the pets, a blue or purple frame is added the same way as in the game. For each pet, four icons are available:
