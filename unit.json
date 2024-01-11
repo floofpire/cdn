@@ -2075,6 +2075,18 @@
     "mainRole": "AoE",
     "secondRole": "Continuous Damage"
   },
+  "179": {
+    "id": 179,
+    "codeName": "DHT",
+    "names": {
+      "en": "Atheus"
+    },
+    "faction": "Wilder",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Tank",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
