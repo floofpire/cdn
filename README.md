@@ -85,6 +85,24 @@ For the pets, a blue or purple frame is added the same way as in the game. For e
 <id>_lvl18_2x.webp
 ```
 
+### collection_icon
+The collection icons are a reconstruction of in-game collection icons with the various investments.
+To use the collection icons, you need to specify in the name multiple parameters: collection ID, the skill level, the number of mythic stat, and whether the class icon is added.
+```
+<id>[_lvl<skill_level>][_ms<number_of_mythic_stats>][_cl][_2x].webp
+```
+The parameters between `[]` are optional. Here are the possible values:
+- Skill level: no value, 1, 2 or 3
+- Number of mythic stats: no value, 1, 2, 3, 4, 5, 6, 7 or 8
+
+Here are some examples:
+```
+1.webp
+2_lvl1.webp
+3_ms4.webp
+4_lvl1_ms2_cl_2x.webp
+```
+
 ## Scaling
 The assets have been upscaled by using [waifu2x](https://github.com/nihui/waifu2x-ncnn-vulkan). For `unit_icon` or `unit_icon_by_id`, you just need to specify the `_2x` or `_4x` suffix to the asset name to get the upscaled version. For `framed_unit_icon`, only `_2x` is available. Demo:
 
@@ -102,10 +120,15 @@ The assets have been upscaled by using [waifu2x](https://github.com/nihui/waifu2
 
 ![Ainz 309E80 2x](https://raw.githubusercontent.com/afk-mine/cdn/main/framed_unit_icon/6015_lvl18_2x.webp)
 
+![Collection 4](https://raw.githubusercontent.com/afk-mine/cdn/main/collection_icon/4_lvl3_ms8_cl.webp)
+
+![Collection 4](https://raw.githubusercontent.com/afk-mine/cdn/main/collection_icon/4_lvl3_ms8_cl_2x.webp)
+
 
 ## Stats
 <!-- stats-start -->
-- 1,680 unit icons
-- 2,184 unit icons by id
-- 152,143 framed unit icons
+ - 1,680 unit icons
+ - 2,184 unit icons by id
+ - 152,143 framed unit icons
+ - 1,440 collection icons
 <!-- stats-end -->
