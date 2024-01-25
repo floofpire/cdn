@@ -2087,6 +2087,18 @@
     "mainRole": "Tank",
     "secondRole": "Control"
   },
+  "180": {
+    "id": 180,
+    "codeName": "Mess",
+    "names": {
+      "en": "Malkrie"
+    },
+    "faction": "Celestial",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
