@@ -5,6 +5,7 @@
     "names": {
       "en": "Hogan"
     },
+    "rarity": "rare",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -17,6 +18,7 @@
     "names": {
       "en": "Ira"
     },
+    "rarity": "rare",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -29,6 +31,7 @@
     "names": {
       "en": "Angelo"
     },
+    "rarity": "rare",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -41,6 +44,7 @@
     "names": {
       "en": "Estrilda"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -53,6 +57,7 @@
     "names": {
       "en": "Nemora"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -65,6 +70,7 @@
     "names": {
       "en": "Ogi"
     },
+    "rarity": "rare",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -77,6 +83,7 @@
     "names": {
       "en": "Arden"
     },
+    "rarity": "rare",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -89,6 +96,7 @@
     "names": {
       "en": "Niru"
     },
+    "rarity": "rare",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -101,6 +109,7 @@
     "names": {
       "en": "Brutus"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -113,6 +122,7 @@
     "names": {
       "en": "Morvus"
     },
+    "rarity": "rare",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -125,6 +135,7 @@
     "names": {
       "en": "Ankhira"
     },
+    "rarity": "rare",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -137,6 +148,7 @@
     "names": {
       "en": "Golus"
     },
+    "rarity": "rare",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -149,6 +161,7 @@
     "names": {
       "en": "Mirael"
     },
+    "rarity": "rare",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -161,6 +174,7 @@
     "names": {
       "en": "Kaz"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -173,6 +187,7 @@
     "names": {
       "en": "Silvina"
     },
+    "rarity": "rare",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -185,6 +200,7 @@
     "names": {
       "en": "Lyca"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -197,6 +213,7 @@
     "names": {
       "en": "Steixius"
     },
+    "rarity": "common",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -209,6 +226,7 @@
     "names": {
       "en": "Merek"
     },
+    "rarity": "common",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -221,6 +239,7 @@
     "names": {
       "en": "Dreaf"
     },
+    "rarity": "common",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -233,6 +252,7 @@
     "names": {
       "en": "Belinda"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -245,6 +265,7 @@
     "names": {
       "en": "Sezis"
     },
+    "rarity": "common",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -257,6 +278,7 @@
     "names": {
       "en": "Ulric"
     },
+    "rarity": "common",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -269,6 +291,7 @@
     "names": {
       "en": "Saveas"
     },
+    "rarity": "rare",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -281,6 +304,7 @@
     "names": {
       "en": "Vedan"
     },
+    "rarity": "rare",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -293,6 +317,7 @@
     "names": {
       "en": "Grezhul"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -305,6 +330,7 @@
     "names": {
       "en": "Khasos"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -317,6 +343,7 @@
     "names": {
       "en": "Shemira"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -329,6 +356,7 @@
     "names": {
       "en": "Tasi"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -341,6 +369,7 @@
     "names": {
       "en": "Bloodsnarl"
     },
+    "rarity": "common",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -353,6 +382,7 @@
     "names": {
       "en": "Eletha"
     },
+    "rarity": "common",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -365,6 +395,7 @@
     "names": {
       "en": "Arkadios"
     },
+    "rarity": "common",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -377,6 +408,7 @@
     "names": {
       "en": "Thoran"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -389,6 +421,7 @@
     "names": {
       "en": "Isabella"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -401,6 +434,7 @@
     "names": {
       "en": "Raine"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -413,6 +447,7 @@
     "names": {
       "en": "Vurk"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -425,6 +460,7 @@
     "names": {
       "en": "Numisu"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -437,6 +473,7 @@
     "names": {
       "en": "Fawkes"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -449,6 +486,7 @@
     "names": {
       "en": "Skreg"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -461,6 +499,7 @@
     "names": {
       "en": "Nara"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -473,6 +512,7 @@
     "names": {
       "en": "Ferael"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -485,6 +525,7 @@
     "names": {
       "en": "Ulmus"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -497,6 +538,7 @@
     "names": {
       "en": "Warek"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -509,6 +551,7 @@
     "names": {
       "en": "Lucius"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -521,6 +564,7 @@
     "names": {
       "en": "Thane"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -533,6 +577,7 @@
     "names": {
       "en": "Seirus"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -545,6 +590,7 @@
     "names": {
       "en": "Antandra"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -557,6 +603,7 @@
     "names": {
       "en": "Eironn"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -569,6 +616,7 @@
     "names": {
       "en": "Baden"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -581,6 +629,7 @@
     "names": {
       "en": "Hendrik"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -593,6 +642,7 @@
     "names": {
       "en": "Safiya"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -605,6 +655,7 @@
     "names": {
       "en": "Rowan"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -617,6 +668,7 @@
     "names": {
       "en": "Satrana"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -629,6 +681,7 @@
     "names": {
       "en": "Athalia"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Ranger",
     "job": "archer",
@@ -641,6 +694,7 @@
     "names": {
       "en": "Ezizh"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Warrior",
     "job": "tank",
@@ -653,6 +707,7 @@
     "names": {
       "en": "Gorvo"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -665,6 +720,7 @@
     "names": {
       "en": "Kelthur"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -677,6 +733,7 @@
     "names": {
       "en": "Mehira"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -689,6 +746,7 @@
     "names": {
       "en": "Gwyneth"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -701,6 +759,7 @@
     "names": {
       "en": "Rosaline"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -713,6 +772,7 @@
     "names": {
       "en": "Elijah & Lailah"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -725,6 +785,7 @@
     "names": {
       "en": "Silas"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -737,6 +798,7 @@
     "names": {
       "en": "Zolrath"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Ranger",
     "job": "archer",
@@ -749,6 +811,7 @@
     "names": {
       "en": "Lorsan"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -761,6 +824,7 @@
     "names": {
       "en": "Cecilia"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -773,6 +837,7 @@
     "names": {
       "en": "Oden"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -785,6 +850,7 @@
     "names": {
       "en": "Rigby"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -797,6 +863,7 @@
     "names": {
       "en": "Orthros"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Warrior",
     "job": "tank",
@@ -809,6 +876,7 @@
     "names": {
       "en": "Tidus"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -821,6 +889,7 @@
     "names": {
       "en": "Izold"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -833,6 +902,7 @@
     "names": {
       "en": "Oscar"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -845,6 +915,7 @@
     "names": {
       "en": "Talene"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Ranger",
     "job": "archer",
@@ -857,6 +928,7 @@
     "names": {
       "en": "Saurus"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -869,6 +941,7 @@
     "names": {
       "en": "Nakoruru"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -881,6 +954,7 @@
     "names": {
       "en": "Khazard"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -893,6 +967,7 @@
     "names": {
       "en": "Drez"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -905,6 +980,7 @@
     "names": {
       "en": "Arthur"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
@@ -917,6 +993,7 @@
     "names": {
       "en": "Solise"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -929,6 +1006,7 @@
     "names": {
       "en": "Skriath"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -941,6 +1019,7 @@
     "names": {
       "en": "Wu Kong"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Warrior",
     "job": "tank",
@@ -953,6 +1032,7 @@
     "names": {
       "en": "Mezoth"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Warrior",
     "job": "tank",
@@ -965,6 +1045,7 @@
     "names": {
       "en": "Ukyo"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -977,6 +1058,7 @@
     "names": {
       "en": "Anoki"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -989,6 +1071,7 @@
     "names": {
       "en": "Torne"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -1001,6 +1084,7 @@
     "names": {
       "en": "Flora"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -1013,6 +1097,7 @@
     "names": {
       "en": "Daimon"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -1025,6 +1110,7 @@
     "names": {
       "en": "Theowyn"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -1037,6 +1123,7 @@
     "names": {
       "en": "Ezio"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -1049,6 +1136,7 @@
     "names": {
       "en": "Lucretia"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Ranger",
     "job": "archer",
@@ -1061,6 +1149,7 @@
     "names": {
       "en": "Pippa"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -1073,6 +1162,7 @@
     "names": {
       "en": "Prince of Persia"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -1085,6 +1175,7 @@
     "names": {
       "en": "Zaphrael"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -1097,6 +1188,7 @@
     "names": {
       "en": "Albedo"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
@@ -1109,6 +1201,7 @@
     "names": {
       "en": "Ainz Ooal Gown"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
@@ -1121,6 +1214,7 @@
     "names": {
       "en": "Mortas"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Ranger",
     "job": "archer",
@@ -1133,6 +1227,7 @@
     "names": {
       "en": "QUEEN"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
@@ -1145,6 +1240,7 @@
     "names": {
       "en": "JOKER"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -1157,6 +1253,7 @@
     "names": {
       "en": "Alna"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Ranger",
     "job": "archer",
@@ -1169,6 +1266,7 @@
     "names": {
       "en": "Kren"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -1181,6 +1279,7 @@
     "names": {
       "en": "Respen"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -1193,6 +1292,7 @@
     "names": {
       "en": "Eluard"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -1205,6 +1305,7 @@
     "names": {
       "en": "Raku"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -1217,6 +1318,7 @@
     "names": {
       "en": "Peggy"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -1229,6 +1331,7 @@
     "names": {
       "en": "Morael"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -1241,6 +1344,7 @@
     "names": {
       "en": "Desira"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -1253,6 +1357,7 @@
     "names": {
       "en": "Walker"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -1265,6 +1370,7 @@
     "names": {
       "en": "Leofric"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -1277,6 +1383,7 @@
     "names": {
       "en": "Merlin"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
@@ -1289,6 +1396,7 @@
     "names": {
       "en": "Thali"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -1301,6 +1409,7 @@
     "names": {
       "en": "Titus"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Warrior",
     "job": "tank",
@@ -1313,6 +1422,7 @@
     "names": {
       "en": "Hodgkin"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -1325,6 +1435,7 @@
     "names": {
       "en": "Morrow"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -1337,6 +1448,7 @@
     "names": {
       "en": "Zikis"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Ranger",
     "job": "archer",
@@ -1349,6 +1461,7 @@
     "names": {
       "en": "Granit"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -1361,6 +1474,7 @@
     "names": {
       "en": "Leonardo"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
@@ -1373,6 +1487,7 @@
     "names": {
       "en": "Mishka"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -1385,6 +1500,7 @@
     "names": {
       "en": "Haelus"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -1397,6 +1513,7 @@
     "names": {
       "en": "Treznor"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -1409,6 +1526,7 @@
     "names": {
       "en": "Thesku"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -1421,6 +1539,7 @@
     "names": {
       "en": "Talene"
     },
+    "rarity": "legendary",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -1433,6 +1552,7 @@
     "names": {
       "en": "Framton"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Ranger",
     "job": "archer",
@@ -1445,6 +1565,7 @@
     "names": {
       "en": "Astar"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -1457,6 +1578,7 @@
     "names": {
       "en": "Scarlet"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -1469,6 +1591,7 @@
     "names": {
       "en": "Melusina"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
@@ -1481,6 +1604,7 @@
     "names": {
       "en": "Fane"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Ranger",
     "job": "archer",
@@ -1493,6 +1617,7 @@
     "names": {
       "en": "Ezizh"
     },
+    "rarity": "legendary",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -1505,6 +1630,7 @@
     "names": {
       "en": "Alaro"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -1517,6 +1643,7 @@
     "names": {
       "en": "Audrae"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Ranger",
     "job": "archer",
@@ -1529,6 +1656,7 @@
     "names": {
       "en": "Oku"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Warrior",
     "job": "tank",
@@ -1541,6 +1669,7 @@
     "names": {
       "en": "Thane"
     },
+    "rarity": "legendary",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -1553,6 +1682,7 @@
     "names": {
       "en": "Vyloris"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -1565,6 +1695,7 @@
     "names": {
       "en": "Sonja"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
@@ -1577,6 +1708,7 @@
     "names": {
       "en": "Anasta"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -1589,6 +1721,7 @@
     "names": {
       "en": "Kalene"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -1601,6 +1734,7 @@
     "names": {
       "en": "Brutus"
     },
+    "rarity": "legendary",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -1613,6 +1747,7 @@
     "names": {
       "en": "Joan of Arc"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
@@ -1625,6 +1760,7 @@
     "names": {
       "en": "Eorin"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -1637,6 +1773,7 @@
     "names": {
       "en": "Tarnos"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Warrior",
     "job": "tank",
@@ -1649,6 +1786,7 @@
     "names": {
       "en": "Solise"
     },
+    "rarity": "legendary",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -1661,6 +1799,7 @@
     "names": {
       "en": "Geralt"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -1673,6 +1812,7 @@
     "names": {
       "en": "Yennefer"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
@@ -1685,6 +1825,7 @@
     "names": {
       "en": "Canisa & Ruke"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Warrior",
     "job": "tank",
@@ -1697,6 +1838,7 @@
     "names": {
       "en": "Nevanthi"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -1709,6 +1851,7 @@
     "names": {
       "en": "Baden"
     },
+    "rarity": "legendary",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -1721,6 +1864,7 @@
     "names": {
       "en": "Salaki"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -1733,6 +1877,7 @@
     "names": {
       "en": "Palmer"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -1745,6 +1890,7 @@
     "names": {
       "en": "Veithael"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Ranger",
     "job": "archer",
@@ -1757,6 +1903,7 @@
     "names": {
       "en": "Mulan"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -1769,6 +1916,7 @@
     "names": {
       "en": "Belinda"
     },
+    "rarity": "legendary",
     "faction": "Lightbearer",
     "class": "Mage",
     "job": "magician",
@@ -1781,6 +1929,7 @@
     "names": {
       "en": "Tamrus"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -1793,6 +1942,7 @@
     "names": {
       "en": "Olgath"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Ranger",
     "job": "archer",
@@ -1805,6 +1955,7 @@
     "names": {
       "en": "Edwin"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
@@ -1817,6 +1968,7 @@
     "names": {
       "en": "Maetria"
     },
+    "rarity": "legendary",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -1829,6 +1981,7 @@
     "names": {
       "en": "Crassio"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Ranger",
     "job": "archer",
@@ -1841,6 +1994,7 @@
     "names": {
       "en": "Emilia"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
@@ -1853,6 +2007,7 @@
     "names": {
       "en": "Rem"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
@@ -1865,6 +2020,7 @@
     "names": {
       "en": "Athalia"
     },
+    "rarity": "legendary",
     "faction": "Celestial",
     "class": "Ranger",
     "job": "archer",
@@ -1877,6 +2033,7 @@
     "names": {
       "en": "Ginneas"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -1889,6 +2046,7 @@
     "names": {
       "en": "Daemia"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -1901,6 +2059,7 @@
     "names": {
       "en": "Trishea"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -1913,6 +2072,7 @@
     "names": {
       "en": "Safiya"
     },
+    "rarity": "legendary",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -1925,6 +2085,7 @@
     "names": {
       "en": "Ivan"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -1937,6 +2098,7 @@
     "names": {
       "en": "Naroko"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
@@ -1949,6 +2111,7 @@
     "names": {
       "en": "Lucilla"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Warrior",
     "job": "tank",
@@ -1961,6 +2124,7 @@
     "names": {
       "en": "Liberta"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -1973,6 +2137,7 @@
     "names": {
       "en": "Lyca"
     },
+    "rarity": "legendary",
     "faction": "Wilder",
     "class": "Ranger",
     "job": "archer",
@@ -1985,6 +2150,7 @@
     "names": {
       "en": "Jerome"
     },
+    "rarity": "elite",
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
@@ -1997,6 +2163,7 @@
     "names": {
       "en": "Robin Hood"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
@@ -2009,6 +2176,7 @@
     "names": {
       "en": "Shemira"
     },
+    "rarity": "legendary",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -2021,6 +2189,7 @@
     "names": {
       "en": "Lady Simona"
     },
+    "rarity": "elite",
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
@@ -2033,6 +2202,7 @@
     "names": {
       "en": "Lavatune"
     },
+    "rarity": "elite",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -2045,6 +2215,7 @@
     "names": {
       "en": "Vika"
     },
+    "rarity": "elite",
     "faction": "Mauler",
     "class": "Mage",
     "job": "magician",
@@ -2057,6 +2228,7 @@
     "names": {
       "en": "Gavus"
     },
+    "rarity": "legendary",
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
@@ -2069,6 +2241,7 @@
     "names": {
       "en": "Eugene"
     },
+    "rarity": "legendary",
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
@@ -2081,6 +2254,7 @@
     "names": {
       "en": "Atheus"
     },
+    "rarity": "elite",
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
@@ -2093,6 +2267,7 @@
     "names": {
       "en": "Malkrie"
     },
+    "rarity": "elite",
     "faction": "Celestial",
     "class": "Ranger",
     "job": "archer",
@@ -2565,6 +2740,7 @@
     "names": {
       "en": "Dreary Ball"
     },
+    "rarity": "rare",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2575,6 +2751,7 @@
     "names": {
       "en": "Tufty Ears"
     },
+    "rarity": "rare",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2585,6 +2762,7 @@
     "names": {
       "en": "Grassy Orb"
     },
+    "rarity": "rare",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2595,6 +2773,7 @@
     "names": {
       "en": "Polar Beast"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2605,6 +2784,7 @@
     "names": {
       "en": "Fire Breather"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2615,6 +2795,7 @@
     "names": {
       "en": "Blade Ridge"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2625,6 +2806,7 @@
     "names": {
       "en": "Winged Lion"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2635,6 +2817,7 @@
     "names": {
       "en": "Rock Crown Lizard"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2645,6 +2828,7 @@
     "names": {
       "en": "Feline Vesperio"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2655,6 +2839,7 @@
     "names": {
       "en": "Bellbellow"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2665,6 +2850,7 @@
     "names": {
       "en": "Flutterplume Owl"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2675,6 +2861,7 @@
     "names": {
       "en": "Talismane"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2685,6 +2872,7 @@
     "names": {
       "en": "Phantasmoth"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2695,6 +2883,7 @@
     "names": {
       "en": "Savage Soufflé"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2705,6 +2894,7 @@
     "names": {
       "en": "Slumber Seal"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2715,6 +2905,7 @@
     "names": {
       "en": "Fox Fatale"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2725,6 +2916,7 @@
     "names": {
       "en": "Shroom Spooder"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2735,6 +2927,7 @@
     "names": {
       "en": "Radish Rotunda"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
@@ -2745,6 +2938,7 @@
     "names": {
       "en": "Pandy Dumpty"
     },
+    "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
