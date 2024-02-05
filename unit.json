@@ -2274,6 +2274,19 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Control"
   },
+  "181": {
+    "id": 181,
+    "codeName": "Paladin",
+    "names": {
+      "en": "Lucius"
+    },
+    "rarity": "legendary",
+    "faction": "Lightbearer",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Tank",
+    "secondRole": "Continuous Damage"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
