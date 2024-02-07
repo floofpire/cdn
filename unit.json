@@ -2955,5 +2955,16 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank"
+  },
+  "6020": {
+    "id": 6020,
+    "codeName": "Jellyfish",
+    "names": {
+      "en": "Ice Crown"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank"
   }
 }
