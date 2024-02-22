@@ -2287,6 +2287,19 @@
     "mainRole": "Tank",
     "secondRole": "Continuous Damage"
   },
+  "182": {
+    "id": 182,
+    "codeName": "TangoD",
+    "names": {
+      "en": "Adrian & Elyse"
+    },
+    "rarity": "elite",
+    "faction": "Lightbearer",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Control",
+    "secondRole": "Buff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
