@@ -2300,6 +2300,19 @@
     "mainRole": "Control",
     "secondRole": "Buff"
   },
+  "183": {
+    "id": 183,
+    "codeName": "TombKeeper",
+    "names": {
+      "en": "Bronn"
+    },
+    "rarity": "elite",
+    "faction": "Graveborn",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Buff",
+    "secondRole": "Continuous Damage"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
