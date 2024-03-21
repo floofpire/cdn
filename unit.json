@@ -2313,6 +2313,19 @@
     "mainRole": "Buff",
     "secondRole": "Continuous Damage"
   },
+  "184": {
+    "id": 184,
+    "codeName": "Purga",
+    "names": {
+      "en": "Kalthin"
+    },
+    "rarity": "elite",
+    "faction": "Hypogean",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
