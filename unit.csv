@@ -178,6 +178,14 @@
 182,"TangoD","Adrian & Elyse","elite","Lightbearer","Ranger","archer","Control","Buff"
 183,"TombKeeper","Bronn","elite","Graveborn","Warrior","tank","Buff","Continuous Damage"
 184,"Purga","Kalthin","elite","Hypogean","Warrior","tank","Continuous Damage","Debuff"
+185,"DFiery","Hildwin","legendary",,"Mage","magician","Continuous Damage","Control"
+186,"DLongbow","Gwyneth","legendary",,"Warrior","tank","Continuous Damage","Debuff"
+187,"DPop","Nyla","elite",,"Mage","magician","Control","Continuous Damage"
+188,"DVain","Pulina","elite",,"Ranger","archer","Continuous Damage","Burst Damage"
+189,"DHerald","Cassius","elite",,"Mage","magician","Tank","Control"
+190,"DCute","Gourgue","rare",,"Mage","magician","Buff","Burst Damage"
+191,"Dpower","Draconis Warrior","common",,"Warrior","tank","Tank","Burst Damage"
+192,"Dbow","Draconis Archer","common",,"Ranger","archer","Continuous Damage","Buff"
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,
@@ -224,6 +232,7 @@
 1148,"BossDharma","Morgana",,"Celestial","Mage","magician",,
 1149,"RBossHydra","Morass Diabolus",,"Hypogean","Mage","magician",,
 1150,"BossKondra","Conrad",,"Hypogean","Mage","magician",,
+1161,"BossBait","Darkness Rising",,"Dimensional","Mage","magician",,
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,
@@ -244,3 +253,4 @@
 6018,"Vegelf","Radish Rotunda","elite","Dimensional","Warrior","tank",,
 6019,"Ailuro","Pandy Dumpty","elite","Dimensional","Warrior","tank",,
 6020,"Jellyfish","Ice Crown","elite","Dimensional","Warrior","tank",,
+6021,"CutyDragon","Aureus","elite","Dimensional","Warrior","tank",,

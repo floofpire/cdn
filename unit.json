@@ -2326,6 +2326,102 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff"
   },
+  "185": {
+    "id": 185,
+    "codeName": "DFiery",
+    "names": {
+      "en": "Hildwin"
+    },
+    "rarity": "legendary",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Control"
+  },
+  "186": {
+    "id": 186,
+    "codeName": "DLongbow",
+    "names": {
+      "en": "Gwyneth"
+    },
+    "rarity": "legendary",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff"
+  },
+  "187": {
+    "id": 187,
+    "codeName": "DPop",
+    "names": {
+      "en": "Nyla"
+    },
+    "rarity": "elite",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Control",
+    "secondRole": "Continuous Damage"
+  },
+  "188": {
+    "id": 188,
+    "codeName": "DVain",
+    "names": {
+      "en": "Pulina"
+    },
+    "rarity": "elite",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Burst Damage"
+  },
+  "189": {
+    "id": 189,
+    "codeName": "DHerald",
+    "names": {
+      "en": "Cassius"
+    },
+    "rarity": "elite",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Tank",
+    "secondRole": "Control"
+  },
+  "190": {
+    "id": 190,
+    "codeName": "DCute",
+    "names": {
+      "en": "Gourgue"
+    },
+    "rarity": "rare",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Buff",
+    "secondRole": "Burst Damage"
+  },
+  "191": {
+    "id": 191,
+    "codeName": "Dpower",
+    "names": {
+      "en": "Draconis Warrior"
+    },
+    "rarity": "common",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Tank",
+    "secondRole": "Burst Damage"
+  },
+  "192": {
+    "id": 192,
+    "codeName": "Dbow",
+    "names": {
+      "en": "Draconis Archer"
+    },
+    "rarity": "common",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Buff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -2786,6 +2882,16 @@
     "class": "Mage",
     "job": "magician"
   },
+  "1161": {
+    "id": 1161,
+    "codeName": "BossBait",
+    "names": {
+      "en": "Darkness Rising"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician"
+  },
   "6001": {
     "id": 6001,
     "codeName": "BlackBall",
@@ -3000,6 +3106,17 @@
     "codeName": "Jellyfish",
     "names": {
       "en": "Ice Crown"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank"
+  },
+  "6021": {
+    "id": 6021,
+    "codeName": "CutyDragon",
+    "names": {
+      "en": "Aureus"
     },
     "rarity": "elite",
     "faction": "Dimensional",
