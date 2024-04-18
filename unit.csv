@@ -178,14 +178,14 @@
 182,"TangoD","Adrian & Elyse","elite","Lightbearer","Ranger","archer","Control","Buff"
 183,"TombKeeper","Bronn","elite","Graveborn","Warrior","tank","Buff","Continuous Damage"
 184,"Purga","Kalthin","elite","Hypogean","Warrior","tank","Continuous Damage","Debuff"
-185,"DFiery","Hildwin","legendary",,"Mage","magician","Continuous Damage","Control"
-186,"DLongbow","Gwyneth","legendary",,"Warrior","tank","Continuous Damage","Debuff"
-187,"DPop","Nyla","elite",,"Mage","magician","Control","Continuous Damage"
-188,"DVain","Pulina","elite",,"Ranger","archer","Continuous Damage","Burst Damage"
-189,"DHerald","Cassius","elite",,"Mage","magician","Tank","Control"
-190,"DCute","Gourgue","rare",,"Mage","magician","Buff","Burst Damage"
-191,"Dpower","Draconis Warrior","common",,"Warrior","tank","Tank","Burst Damage"
-192,"Dbow","Draconis Archer","common",,"Ranger","archer","Continuous Damage","Buff"
+185,"DFiery","Hildwin","legendary","Draconis","Mage","magician","Continuous Damage","Control"
+186,"DLongbow","Gwyneth","legendary","Draconis","Warrior","tank","Continuous Damage","Debuff"
+187,"DPop","Nyla","elite","Draconis","Mage","magician","Control","Continuous Damage"
+188,"DVain","Pulina","elite","Draconis","Ranger","archer","Continuous Damage","Burst Damage"
+189,"DHerald","Cassius","elite","Draconis","Mage","magician","Tank","Control"
+190,"DCute","Gourgue","rare","Draconis","Mage","magician","Buff","Burst Damage"
+191,"Dpower","Draconis Warrior","common","Draconis","Warrior","tank","Tank","Burst Damage"
+192,"Dbow","Draconis Archer","common","Draconis","Ranger","archer","Continuous Damage","Buff"
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,

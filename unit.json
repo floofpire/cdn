@@ -2333,6 +2333,7 @@
       "en": "Hildwin"
     },
     "rarity": "legendary",
+    "faction": "Draconis",
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
@@ -2345,6 +2346,7 @@
       "en": "Gwyneth"
     },
     "rarity": "legendary",
+    "faction": "Draconis",
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
@@ -2357,6 +2359,7 @@
       "en": "Nyla"
     },
     "rarity": "elite",
+    "faction": "Draconis",
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
@@ -2369,6 +2372,7 @@
       "en": "Pulina"
     },
     "rarity": "elite",
+    "faction": "Draconis",
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
@@ -2381,6 +2385,7 @@
       "en": "Cassius"
     },
     "rarity": "elite",
+    "faction": "Draconis",
     "class": "Mage",
     "job": "magician",
     "mainRole": "Tank",
@@ -2393,6 +2398,7 @@
       "en": "Gourgue"
     },
     "rarity": "rare",
+    "faction": "Draconis",
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
@@ -2405,6 +2411,7 @@
       "en": "Draconis Warrior"
     },
     "rarity": "common",
+    "faction": "Draconis",
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
@@ -2417,6 +2424,7 @@
       "en": "Draconis Archer"
     },
     "rarity": "common",
+    "faction": "Draconis",
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
