@@ -2430,6 +2430,19 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Buff"
   },
+  "193": {
+    "id": 193,
+    "codeName": "ScorpionLady",
+    "names": {
+      "en": "Villanelle"
+    },
+    "rarity": "elite",
+    "faction": "Mauler",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Debuff",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
