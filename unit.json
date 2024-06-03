@@ -2443,6 +2443,32 @@
     "mainRole": "Debuff",
     "secondRole": "Control"
   },
+  "194": {
+    "id": 194,
+    "codeName": "PinkWitch",
+    "names": {
+      "en": "Shuna"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Buff",
+    "secondRole": "Control"
+  },
+  "195": {
+    "id": 195,
+    "codeName": "CuteLord",
+    "names": {
+      "en": "Rimuru"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Burst Damage",
+    "secondRole": "Buff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
