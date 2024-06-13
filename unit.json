@@ -2469,6 +2469,19 @@
     "mainRole": "Burst Damage",
     "secondRole": "Buff"
   },
+  "196": {
+    "id": 196,
+    "codeName": "SLeopard",
+    "names": {
+      "en": "Antandra"
+    },
+    "rarity": "legendary",
+    "faction": "Mauler",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -2936,6 +2949,16 @@
       "en": "Darkness Rising"
     },
     "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1164": {
+    "id": 1164,
+    "codeName": "BossStalker",
+    "names": {
+      "en": "Cruel Crow"
+    },
+    "faction": "Hypogean",
     "class": "Mage",
     "job": "magician"
   },
