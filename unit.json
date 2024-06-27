@@ -2482,6 +2482,19 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff"
   },
+  "197": {
+    "id": 197,
+    "codeName": "DEnforcer",
+    "names": {
+      "en": "Melion"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Control",
+    "secondRole": "Buff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -2947,6 +2960,16 @@
     "codeName": "BossBait",
     "names": {
       "en": "Darkness Rising"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1163": {
+    "id": 1163,
+    "codeName": "BossCannibal",
+    "names": {
+      "en": "Ossivorous Spore"
     },
     "faction": "Dimensional",
     "class": "Mage",
