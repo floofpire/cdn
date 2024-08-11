@@ -2521,6 +2521,19 @@
     "mainRole": "Buff",
     "secondRole": "Control"
   },
+  "200": {
+    "id": 200,
+    "codeName": "Snail",
+    "names": {
+      "en": "Misha"
+    },
+    "rarity": "elite",
+    "faction": "Wilder",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Control",
+    "secondRole": "Debuff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3018,6 +3031,16 @@
       "en": "Asmogus"
     },
     "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1173": {
+    "id": 1173,
+    "codeName": "BossSoulLocker",
+    "names": {
+      "en": "Soulchain Knight"
+    },
+    "faction": "Dimensional",
     "class": "Mage",
     "job": "magician"
   },
