@@ -2534,6 +2534,19 @@
     "mainRole": "Control",
     "secondRole": "Debuff"
   },
+  "201": {
+    "id": 201,
+    "codeName": "CrySword",
+    "names": {
+      "en": "Eironn"
+    },
+    "rarity": "legendary",
+    "faction": "Wilder",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
