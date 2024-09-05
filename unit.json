@@ -2547,6 +2547,18 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Control"
   },
+  "202": {
+    "id": 202,
+    "codeName": "AutumnG",
+    "names": {
+      "en": "Aurelia"
+    },
+    "rarity": "elite",
+    "faction": "Celestial",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Buff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3054,6 +3066,16 @@
       "en": "Soulchain Knight"
     },
     "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1174": {
+    "id": 1174,
+    "codeName": "BossTree",
+    "names": {
+      "en": "Asmogus"
+    },
+    "faction": "Hypogean",
     "class": "Mage",
     "job": "magician"
   },
