@@ -2559,6 +2559,19 @@
     "job": "magician",
     "mainRole": "Buff"
   },
+  "203": {
+    "id": 203,
+    "codeName": "DConcierge",
+    "names": {
+      "en": "Kregor"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Buff",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
