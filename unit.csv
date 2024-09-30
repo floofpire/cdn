@@ -195,8 +195,9 @@
 199,"DLoong","Lan","legendary","Draconis","Mage","magician","Buff","Control"
 200,"Snail","Misha","elite","Wilder","Mage","magician","Control","Debuff"
 201,"CrySword","Eironn","legendary","Wilder","Ranger","archer","Continuous Damage","Control"
-202,"AutumnG","Aurelia","elite","Celestial","Mage","magician","Buff",
+202,"AutumnG","Aurelia","elite","Celestial","Mage","magician","Buff","Continuous Damage"
 203,"DConcierge","Kregor","elite","Draconis","Warrior","tank","Buff","Control"
+204,"SoulScythe","Randle","elite","Graveborn","Ranger","archer","Continuous Damage","Buff"
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,
@@ -249,6 +250,7 @@
 1168,"BossDevilGoat","Asmogus",,"Hypogean","Mage","magician",,
 1173,"BossSoulLocker","Soulchain Knight",,"Dimensional","Mage","magician",,
 1174,"BossTree","Asmogus",,"Hypogean","Mage","magician",,
+1175,"BossBlade","Wraith Reaver",,"Hypogean","Mage","magician",,
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,

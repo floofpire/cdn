@@ -2557,7 +2557,8 @@
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
-    "mainRole": "Buff"
+    "mainRole": "Buff",
+    "secondRole": "Continuous Damage"
   },
   "203": {
     "id": 203,
@@ -2571,6 +2572,19 @@
     "job": "tank",
     "mainRole": "Buff",
     "secondRole": "Control"
+  },
+  "204": {
+    "id": 204,
+    "codeName": "SoulScythe",
+    "names": {
+      "en": "Randle"
+    },
+    "rarity": "elite",
+    "faction": "Graveborn",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Buff"
   },
   "1003": {
     "id": 1003,
@@ -3087,6 +3101,16 @@
     "codeName": "BossTree",
     "names": {
       "en": "Asmogus"
+    },
+    "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1175": {
+    "id": 1175,
+    "codeName": "BossBlade",
+    "names": {
+      "en": "Wraith Reaver"
     },
     "faction": "Hypogean",
     "class": "Mage",
