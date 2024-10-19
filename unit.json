@@ -2586,6 +2586,19 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Buff"
   },
+  "205": {
+    "id": 205,
+    "codeName": "SNKStorm",
+    "names": {
+      "en": "Thoran"
+    },
+    "rarity": "legendary",
+    "faction": "Graveborn",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Tank",
+    "secondRole": "Burst Damage"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3100,7 +3113,7 @@
     "id": 1174,
     "codeName": "BossTree",
     "names": {
-      "en": "Asmogus"
+      "en": "Bloodvine Wraith"
     },
     "faction": "Hypogean",
     "class": "Mage",
@@ -3352,6 +3365,17 @@
     "codeName": "Ibis",
     "names": {
       "en": "Pearlcrest Ibis"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank"
+  },
+  "6023": {
+    "id": 6023,
+    "codeName": "CandyGhost",
+    "names": {
+      "en": "Treatspector"
     },
     "rarity": "elite",
     "faction": "Dimensional",

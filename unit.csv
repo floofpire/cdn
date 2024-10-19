@@ -198,6 +198,7 @@
 202,"AutumnG","Aurelia","elite","Celestial","Mage","magician","Buff","Continuous Damage"
 203,"DConcierge","Kregor","elite","Draconis","Warrior","tank","Buff","Control"
 204,"SoulScythe","Randle","elite","Graveborn","Ranger","archer","Continuous Damage","Buff"
+205,"SNKStorm","Thoran","legendary","Graveborn","Warrior","tank","Tank","Burst Damage"
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,
@@ -249,7 +250,7 @@
 1164,"BossStalker","Cruel Crow",,"Hypogean","Mage","magician",,
 1168,"BossDevilGoat","Asmogus",,"Hypogean","Mage","magician",,
 1173,"BossSoulLocker","Soulchain Knight",,"Dimensional","Mage","magician",,
-1174,"BossTree","Asmogus",,"Hypogean","Mage","magician",,
+1174,"BossTree","Bloodvine Wraith",,"Hypogean","Mage","magician",,
 1175,"BossBlade","Wraith Reaver",,"Hypogean","Mage","magician",,
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,
@@ -273,3 +274,4 @@
 6020,"Jellyfish","Ice Crown","elite","Dimensional","Warrior","tank",,
 6021,"CutyDragon","Aureus","elite","Dimensional","Warrior","tank",,
 6022,"Ibis","Pearlcrest Ibis","elite","Dimensional","Warrior","tank",,
+6023,"CandyGhost","Treatspector","elite","Dimensional","Warrior","tank",,
