@@ -2599,6 +2599,19 @@
     "mainRole": "Tank",
     "secondRole": "Burst Damage"
   },
+  "206": {
+    "id": 206,
+    "codeName": "Geezer",
+    "names": {
+      "en": "Knox"
+    },
+    "rarity": "elite",
+    "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Debuff",
+    "secondRole": "Continuous Damage"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
