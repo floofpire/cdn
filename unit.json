@@ -2612,6 +2612,32 @@
     "mainRole": "Debuff",
     "secondRole": "Continuous Damage"
   },
+  "207": {
+    "id": 207,
+    "codeName": "DSky",
+    "names": {
+      "en": "Skylan"
+    },
+    "rarity": "legendary",
+    "faction": "Draconis",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff"
+  },
+  "208": {
+    "id": 208,
+    "codeName": "Orcook",
+    "names": {
+      "en": "Gorren"
+    },
+    "rarity": "elite",
+    "faction": "Mauler",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Buff",
+    "secondRole": "Burst Damage"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3139,6 +3165,26 @@
       "en": "Wraith Reaver"
     },
     "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1182": {
+    "id": 1182,
+    "codeName": "BossWhisperPriest",
+    "names": {
+      "en": "Abyssal Murmur"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1183": {
+    "id": 1183,
+    "codeName": "BossConductor",
+    "names": {
+      "en": "Abyssal Maestro"
+    },
+    "faction": "Dimensional",
     "class": "Mage",
     "job": "magician"
   },
