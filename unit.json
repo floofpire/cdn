@@ -2638,6 +2638,19 @@
     "mainRole": "Buff",
     "secondRole": "Burst Damage"
   },
+  "209": {
+    "id": 209,
+    "codeName": "Zorah",
+    "names": {
+      "en": "Zohra"
+    },
+    "rarity": "legendary",
+    "faction": "Celestial",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3185,6 +3198,16 @@
       "en": "Abyssal Maestro"
     },
     "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1187": {
+    "id": 1187,
+    "codeName": "BossDarkPlanet",
+    "names": {
+      "en": "Astral Devourer"
+    },
+    "faction": "Hypogean",
     "class": "Mage",
     "job": "magician"
   },
