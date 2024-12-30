@@ -2651,6 +2651,19 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Control"
   },
+  "210": {
+    "id": 210,
+    "codeName": "BloodS",
+    "names": {
+      "en": "Shalltear Bloodfallen"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3458,6 +3471,17 @@
     "codeName": "CandyGhost",
     "names": {
       "en": "Treatspector"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank"
+  },
+  "6024": {
+    "id": 6024,
+    "codeName": "FireSnake",
+    "names": {
+      "en": "Joyous Roamer"
     },
     "rarity": "elite",
     "faction": "Dimensional",

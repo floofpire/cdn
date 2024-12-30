@@ -203,6 +203,7 @@
 207,"DSky","Skylan","legendary","Draconis","Ranger","archer","Continuous Damage","Debuff"
 208,"Orcook","Gorren","elite","Mauler","Ranger","archer","Buff","Burst Damage"
 209,"Zorah","Zohra","legendary","Celestial","Mage","magician","Continuous Damage","Control"
+210,"BloodS","Shalltear Bloodfallen","elite","Dimensional","Warrior","tank","Continuous Damage","Control"
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,
@@ -282,3 +283,4 @@
 6021,"CutyDragon","Aureus","elite","Dimensional","Warrior","tank",,
 6022,"Ibis","Pearlcrest Ibis","elite","Dimensional","Warrior","tank",,
 6023,"CandyGhost","Treatspector","elite","Dimensional","Warrior","tank",,
+6024,"FireSnake","Joyous Roamer","elite","Dimensional","Warrior","tank",,
