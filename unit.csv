@@ -204,6 +204,7 @@
 208,"Orcook","Gorren","elite","Mauler","Ranger","archer","Buff","Burst Damage"
 209,"Zorah","Zohra","legendary","Celestial","Mage","magician","Continuous Damage","Control"
 210,"BloodS","Shalltear Bloodfallen","elite","Dimensional","Warrior","tank","Continuous Damage","Control"
+211,"DTornado","Sion","elite","Draconis","Ranger","archer","Continuous Damage","Debuff"
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,
@@ -260,6 +261,7 @@
 1182,"BossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,
 1183,"BossConductor","Abyssal Maestro",,"Dimensional","Mage","magician",,
 1187,"BossDarkPlanet","Astral Devourer",,"Hypogean","Mage","magician",,
+1190,"BossDoubleJoker","Fractured Fool",,"Dimensional","Mage","magician",,
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,

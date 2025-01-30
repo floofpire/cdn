@@ -2664,6 +2664,19 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Control"
   },
+  "211": {
+    "id": 211,
+    "codeName": "DTornado",
+    "names": {
+      "en": "Sion"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3221,6 +3234,16 @@
       "en": "Astral Devourer"
     },
     "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1190": {
+    "id": 1190,
+    "codeName": "BossDoubleJoker",
+    "names": {
+      "en": "Fractured Fool"
+    },
+    "faction": "Dimensional",
     "class": "Mage",
     "job": "magician"
   },
