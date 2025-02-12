@@ -2677,6 +2677,19 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff"
   },
+  "212": {
+    "id": 212,
+    "codeName": "Dsun",
+    "names": {
+      "en": "Haelia"
+    },
+    "rarity": "legendary",
+    "faction": "Draconis",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Burst Damage",
+    "secondRole": "Buff"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
