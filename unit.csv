@@ -206,6 +206,7 @@
 210,"BloodS","Shalltear Bloodfallen","elite","Dimensional","Warrior","tank","Continuous Damage","Control"
 211,"DTornado","Sion","elite","Draconis","Ranger","archer","Continuous Damage","Debuff"
 212,"Dsun","Haelia","legendary","Draconis","Warrior","tank","Burst Damage","Buff"
+213,"Daughter","Mira","elite","Graveborn","Mage","magician","Burst Damage","Control"
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,
@@ -263,6 +264,7 @@
 1183,"BossConductor","Abyssal Maestro",,"Dimensional","Mage","magician",,
 1187,"BossDarkPlanet","Astral Devourer",,"Hypogean","Mage","magician",,
 1190,"BossDoubleJoker","Fractured Fool",,"Dimensional","Mage","magician",,
+1191,"RBossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,

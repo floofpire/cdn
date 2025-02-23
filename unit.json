@@ -2690,6 +2690,19 @@
     "mainRole": "Burst Damage",
     "secondRole": "Buff"
   },
+  "213": {
+    "id": 213,
+    "codeName": "Daughter",
+    "names": {
+      "en": "Mira"
+    },
+    "rarity": "elite",
+    "faction": "Graveborn",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Burst Damage",
+    "secondRole": "Control"
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3255,6 +3268,16 @@
     "codeName": "BossDoubleJoker",
     "names": {
       "en": "Fractured Fool"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician"
+  },
+  "1191": {
+    "id": 1191,
+    "codeName": "RBossWhisperPriest",
+    "names": {
+      "en": "Abyssal Murmur"
     },
     "faction": "Dimensional",
     "class": "Mage",
