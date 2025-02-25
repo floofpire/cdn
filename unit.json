@@ -10,7 +10,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "2": {
     "id": 2,
@@ -23,7 +24,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "3": {
     "id": 3,
@@ -36,7 +38,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "4": {
     "id": 4,
@@ -49,7 +52,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Burst Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "5": {
     "id": 5,
@@ -62,7 +66,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "6": {
     "id": 6,
@@ -75,7 +80,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "7": {
     "id": 7,
@@ -88,7 +94,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "8": {
     "id": 8,
@@ -101,7 +108,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "9": {
     "id": 9,
@@ -114,7 +122,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "10": {
     "id": 10,
@@ -127,7 +136,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "11": {
     "id": 11,
@@ -140,7 +150,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "12": {
     "id": 12,
@@ -153,7 +164,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "13": {
     "id": 13,
@@ -166,7 +178,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "14": {
     "id": 14,
@@ -179,7 +192,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "15": {
     "id": 15,
@@ -192,7 +206,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "16": {
     "id": 16,
@@ -205,7 +220,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Buff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "17": {
     "id": 17,
@@ -218,7 +234,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "18": {
     "id": 18,
@@ -231,7 +248,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "19": {
     "id": 19,
@@ -244,7 +262,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "20": {
     "id": 20,
@@ -257,7 +276,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "21": {
     "id": 21,
@@ -270,7 +290,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "22": {
     "id": 22,
@@ -283,7 +304,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "23": {
     "id": 23,
@@ -296,7 +318,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "24": {
     "id": 24,
@@ -309,7 +332,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Tank",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "25": {
     "id": 25,
@@ -322,7 +346,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "26": {
     "id": 26,
@@ -335,7 +360,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "27": {
     "id": 27,
@@ -348,7 +374,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "28": {
     "id": 28,
@@ -361,7 +388,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "29": {
     "id": 29,
@@ -374,7 +402,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "30": {
     "id": 30,
@@ -387,7 +416,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "31": {
     "id": 31,
@@ -400,7 +430,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "32": {
     "id": 32,
@@ -413,7 +444,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "33": {
     "id": 33,
@@ -426,7 +458,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Assassin"
+    "secondRole": "Assassin",
+    "isAwakened": false
   },
   "34": {
     "id": 34,
@@ -439,7 +472,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Buff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "35": {
     "id": 35,
@@ -452,7 +486,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "AoE",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "36": {
     "id": 36,
@@ -465,7 +500,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "37": {
     "id": 37,
@@ -478,7 +514,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Control",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "38": {
     "id": 38,
@@ -491,7 +528,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "39": {
     "id": 39,
@@ -504,7 +542,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Assassin",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "41": {
     "id": 41,
@@ -517,7 +556,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "42": {
     "id": 42,
@@ -530,7 +570,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "43": {
     "id": 43,
@@ -543,7 +584,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "44": {
     "id": 44,
@@ -556,7 +598,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Heal",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "45": {
     "id": 45,
@@ -569,7 +612,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "46": {
     "id": 46,
@@ -582,7 +626,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "47": {
     "id": 47,
@@ -595,7 +640,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "48": {
     "id": 48,
@@ -608,7 +654,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "AoE",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "49": {
     "id": 49,
@@ -621,7 +668,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "50": {
     "id": 50,
@@ -634,7 +682,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "51": {
     "id": 51,
@@ -647,7 +696,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "52": {
     "id": 52,
@@ -660,7 +710,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "54": {
     "id": 54,
@@ -673,7 +724,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "55": {
     "id": 55,
@@ -686,7 +738,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "56": {
     "id": 56,
@@ -699,7 +752,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Debuff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "57": {
     "id": 57,
@@ -712,7 +766,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "58": {
     "id": 58,
@@ -725,7 +780,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "59": {
     "id": 59,
@@ -738,7 +794,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "60": {
     "id": 60,
@@ -751,7 +808,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "61": {
     "id": 61,
@@ -764,7 +822,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "62": {
     "id": 62,
@@ -777,7 +836,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "63": {
     "id": 63,
@@ -790,7 +850,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "64": {
     "id": 64,
@@ -803,7 +864,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "65": {
     "id": 65,
@@ -816,7 +878,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "66": {
     "id": 66,
@@ -829,7 +892,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "67": {
     "id": 67,
@@ -842,7 +906,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "68": {
     "id": 68,
@@ -855,7 +920,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "69": {
     "id": 69,
@@ -868,7 +934,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "70": {
     "id": 70,
@@ -881,7 +948,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "71": {
     "id": 71,
@@ -894,7 +962,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "72": {
     "id": 72,
@@ -907,7 +976,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "73": {
     "id": 73,
@@ -920,7 +990,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "74": {
     "id": 74,
@@ -933,7 +1004,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "75": {
     "id": 75,
@@ -946,7 +1018,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Assassin"
+    "secondRole": "Assassin",
+    "isAwakened": false
   },
   "76": {
     "id": 76,
@@ -959,7 +1032,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "77": {
     "id": 77,
@@ -972,7 +1046,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Assassin"
+    "secondRole": "Assassin",
+    "isAwakened": false
   },
   "78": {
     "id": 78,
@@ -985,7 +1060,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "80": {
     "id": 80,
@@ -998,7 +1074,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "83": {
     "id": 83,
@@ -1011,7 +1088,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "84": {
     "id": 84,
@@ -1024,7 +1102,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "85": {
     "id": 85,
@@ -1037,7 +1116,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "86": {
     "id": 86,
@@ -1050,7 +1130,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "87": {
     "id": 87,
@@ -1063,7 +1144,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "88": {
     "id": 88,
@@ -1076,7 +1158,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "89": {
     "id": 89,
@@ -1089,7 +1172,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "90": {
     "id": 90,
@@ -1102,7 +1186,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "91": {
     "id": 91,
@@ -1115,7 +1200,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "92": {
     "id": 92,
@@ -1128,7 +1214,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "93": {
     "id": 93,
@@ -1141,7 +1228,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Assassin",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "94": {
     "id": 94,
@@ -1154,7 +1242,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "95": {
     "id": 95,
@@ -1167,7 +1256,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Assassin"
+    "secondRole": "Assassin",
+    "isAwakened": false
   },
   "96": {
     "id": 96,
@@ -1180,7 +1270,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "97": {
     "id": 97,
@@ -1193,7 +1284,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "98": {
     "id": 98,
@@ -1206,7 +1298,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "99": {
     "id": 99,
@@ -1219,7 +1312,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Heal",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "100": {
     "id": 100,
@@ -1232,7 +1326,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "101": {
     "id": 101,
@@ -1245,7 +1340,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "102": {
     "id": 102,
@@ -1258,7 +1354,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Debuff",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "103": {
     "id": 103,
@@ -1271,7 +1368,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "104": {
     "id": 104,
@@ -1284,7 +1382,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "105": {
     "id": 105,
@@ -1297,7 +1396,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "106": {
     "id": 106,
@@ -1310,7 +1410,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "107": {
     "id": 107,
@@ -1323,7 +1424,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "108": {
     "id": 108,
@@ -1336,7 +1438,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "109": {
     "id": 109,
@@ -1349,7 +1452,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "110": {
     "id": 110,
@@ -1362,7 +1466,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "111": {
     "id": 111,
@@ -1375,7 +1480,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Debuff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "112": {
     "id": 112,
@@ -1388,7 +1494,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "113": {
     "id": 113,
@@ -1401,7 +1508,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "114": {
     "id": 114,
@@ -1414,7 +1522,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "115": {
     "id": 115,
@@ -1427,7 +1536,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "116": {
     "id": 116,
@@ -1440,7 +1550,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "117": {
     "id": 117,
@@ -1453,7 +1564,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "118": {
     "id": 118,
@@ -1466,7 +1578,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "119": {
     "id": 119,
@@ -1479,7 +1592,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "120": {
     "id": 120,
@@ -1492,7 +1606,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Control",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "121": {
     "id": 121,
@@ -1505,7 +1620,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "122": {
     "id": 122,
@@ -1518,7 +1634,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Control",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "123": {
     "id": 123,
@@ -1531,7 +1648,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "124": {
     "id": 124,
@@ -1544,7 +1662,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": true
   },
   "125": {
     "id": 125,
@@ -1557,7 +1676,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "126": {
     "id": 126,
@@ -1570,7 +1690,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "127": {
     "id": 127,
@@ -1583,7 +1704,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "128": {
     "id": 128,
@@ -1596,7 +1718,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "129": {
     "id": 129,
@@ -1609,7 +1732,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Debuff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "130": {
     "id": 130,
@@ -1622,7 +1746,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": true
   },
   "131": {
     "id": 131,
@@ -1635,7 +1760,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Buff",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "132": {
     "id": 132,
@@ -1648,7 +1774,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "133": {
     "id": 133,
@@ -1661,7 +1788,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "134": {
     "id": 134,
@@ -1674,7 +1802,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": true
   },
   "135": {
     "id": 135,
@@ -1687,7 +1816,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "136": {
     "id": 136,
@@ -1700,7 +1830,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Buff",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "137": {
     "id": 137,
@@ -1713,7 +1844,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "138": {
     "id": 138,
@@ -1726,7 +1858,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "139": {
     "id": 139,
@@ -1739,7 +1872,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": true
   },
   "140": {
     "id": 140,
@@ -1752,7 +1886,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Buff",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "141": {
     "id": 141,
@@ -1765,7 +1900,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Assassin"
+    "secondRole": "Assassin",
+    "isAwakened": false
   },
   "142": {
     "id": 142,
@@ -1778,7 +1914,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "143": {
     "id": 143,
@@ -1791,7 +1928,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": true
   },
   "144": {
     "id": 144,
@@ -1804,7 +1942,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "145": {
     "id": 145,
@@ -1817,7 +1956,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "146": {
     "id": 146,
@@ -1830,7 +1970,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "147": {
     "id": 147,
@@ -1843,7 +1984,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Heal",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "148": {
     "id": 148,
@@ -1856,7 +1998,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": true
   },
   "149": {
     "id": 149,
@@ -1869,7 +2012,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "150": {
     "id": 150,
@@ -1882,7 +2026,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "151": {
     "id": 151,
@@ -1895,7 +2040,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Tank",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "152": {
     "id": 152,
@@ -1908,7 +2054,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "153": {
     "id": 153,
@@ -1921,7 +2068,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": true
   },
   "154": {
     "id": 154,
@@ -1934,7 +2082,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "155": {
     "id": 155,
@@ -1947,7 +2096,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": false
   },
   "156": {
     "id": 156,
@@ -1960,7 +2110,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "157": {
     "id": 157,
@@ -1973,7 +2124,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": true
   },
   "158": {
     "id": 158,
@@ -1986,7 +2138,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Assassin"
+    "secondRole": "Assassin",
+    "isAwakened": false
   },
   "159": {
     "id": 159,
@@ -1999,7 +2152,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "160": {
     "id": 160,
@@ -2012,7 +2166,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "161": {
     "id": 161,
@@ -2025,7 +2180,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Burst Damage",
-    "secondRole": "Assassin"
+    "secondRole": "Assassin",
+    "isAwakened": true
   },
   "162": {
     "id": 162,
@@ -2038,7 +2194,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "163": {
     "id": 163,
@@ -2051,7 +2208,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "164": {
     "id": 164,
@@ -2064,7 +2222,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "165": {
     "id": 165,
@@ -2077,7 +2236,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "AoE"
+    "secondRole": "AoE",
+    "isAwakened": true
   },
   "166": {
     "id": 166,
@@ -2090,7 +2250,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "167": {
     "id": 167,
@@ -2103,7 +2264,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Heal",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "168": {
     "id": 168,
@@ -2116,7 +2278,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Debuff",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "169": {
     "id": 169,
@@ -2129,7 +2292,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Heal"
+    "secondRole": "Heal",
+    "isAwakened": false
   },
   "170": {
     "id": 170,
@@ -2142,7 +2306,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": true
   },
   "171": {
     "id": 171,
@@ -2155,7 +2320,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Buff",
-    "secondRole": "Tank"
+    "secondRole": "Tank",
+    "isAwakened": false
   },
   "172": {
     "id": 172,
@@ -2168,7 +2334,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Debuff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "173": {
     "id": 173,
@@ -2181,7 +2348,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Tank",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": true
   },
   "174": {
     "id": 174,
@@ -2194,7 +2362,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "175": {
     "id": 175,
@@ -2207,7 +2376,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "176": {
     "id": 176,
@@ -2220,7 +2390,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "177": {
     "id": 177,
@@ -2233,7 +2404,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": true
   },
   "178": {
     "id": 178,
@@ -2246,7 +2418,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "AoE",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": true
   },
   "179": {
     "id": 179,
@@ -2259,7 +2432,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "180": {
     "id": 180,
@@ -2272,7 +2446,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "181": {
     "id": 181,
@@ -2285,7 +2460,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": true
   },
   "182": {
     "id": 182,
@@ -2298,7 +2474,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "183": {
     "id": 183,
@@ -2311,7 +2488,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Buff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "184": {
     "id": 184,
@@ -2324,7 +2502,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "185": {
     "id": 185,
@@ -2337,7 +2516,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "186": {
     "id": 186,
@@ -2350,7 +2530,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "187": {
     "id": 187,
@@ -2363,7 +2544,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "188": {
     "id": 188,
@@ -2376,7 +2558,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "189": {
     "id": 189,
@@ -2389,7 +2572,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Tank",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "190": {
     "id": 190,
@@ -2402,7 +2586,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "191": {
     "id": 191,
@@ -2415,7 +2600,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "192": {
     "id": 192,
@@ -2428,7 +2614,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "193": {
     "id": 193,
@@ -2441,7 +2628,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Debuff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "194": {
     "id": 194,
@@ -2454,7 +2642,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "195": {
     "id": 195,
@@ -2467,7 +2656,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "196": {
     "id": 196,
@@ -2480,7 +2670,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": true
   },
   "197": {
     "id": 197,
@@ -2493,7 +2684,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "198": {
     "id": 198,
@@ -2506,7 +2698,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Debuff",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "199": {
     "id": 199,
@@ -2519,7 +2712,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "200": {
     "id": 200,
@@ -2532,7 +2726,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Control",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "201": {
     "id": 201,
@@ -2545,7 +2740,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": true
   },
   "202": {
     "id": 202,
@@ -2558,7 +2754,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Buff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "203": {
     "id": 203,
@@ -2571,7 +2768,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Buff",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "204": {
     "id": 204,
@@ -2584,7 +2782,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "205": {
     "id": 205,
@@ -2597,7 +2796,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Tank",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": true
   },
   "206": {
     "id": 206,
@@ -2610,7 +2810,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Debuff",
-    "secondRole": "Continuous Damage"
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
   },
   "207": {
     "id": 207,
@@ -2623,7 +2824,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "208": {
     "id": 208,
@@ -2636,7 +2838,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Buff",
-    "secondRole": "Burst Damage"
+    "secondRole": "Burst Damage",
+    "isAwakened": false
   },
   "209": {
     "id": 209,
@@ -2649,7 +2852,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": true
   },
   "210": {
     "id": 210,
@@ -2662,7 +2866,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Continuous Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "211": {
     "id": 211,
@@ -2675,7 +2880,8 @@
     "class": "Ranger",
     "job": "archer",
     "mainRole": "Continuous Damage",
-    "secondRole": "Debuff"
+    "secondRole": "Debuff",
+    "isAwakened": false
   },
   "212": {
     "id": 212,
@@ -2688,7 +2894,8 @@
     "class": "Warrior",
     "job": "tank",
     "mainRole": "Burst Damage",
-    "secondRole": "Buff"
+    "secondRole": "Buff",
+    "isAwakened": false
   },
   "213": {
     "id": 213,
@@ -2701,7 +2908,8 @@
     "class": "Mage",
     "job": "magician",
     "mainRole": "Burst Damage",
-    "secondRole": "Control"
+    "secondRole": "Control",
+    "isAwakened": false
   },
   "1003": {
     "id": 1003,
@@ -2711,7 +2919,8 @@
     },
     "faction": "Hypogean",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "1004": {
     "id": 1004,
@@ -2721,7 +2930,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1005": {
     "id": 1005,
@@ -2731,7 +2941,8 @@
     },
     "faction": "Hypogean",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "1006": {
     "id": 1006,
@@ -2741,7 +2952,8 @@
     },
     "faction": "Mauler",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "1007": {
     "id": 1007,
@@ -2751,7 +2963,8 @@
     },
     "faction": "Graveborn",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "1008": {
     "id": 1008,
@@ -2761,7 +2974,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1012": {
     "id": 1012,
@@ -2771,7 +2985,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1014": {
     "id": 1014,
@@ -2781,7 +2996,8 @@
     },
     "faction": "Lightbearer",
     "class": "Ranger",
-    "job": "archer"
+    "job": "archer",
+    "isAwakened": false
   },
   "1015": {
     "id": 1015,
@@ -2791,7 +3007,8 @@
     },
     "faction": "Lightbearer",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "1016": {
     "id": 1016,
@@ -2801,7 +3018,8 @@
     },
     "faction": "Graveborn",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1017": {
     "id": 1017,
@@ -2811,7 +3029,8 @@
     },
     "faction": "Dimensional",
     "class": "Ranger",
-    "job": "archer"
+    "job": "archer",
+    "isAwakened": false
   },
   "1022": {
     "id": 1022,
@@ -2821,7 +3040,8 @@
     },
     "faction": "Wilder",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1023": {
     "id": 1023,
@@ -2831,7 +3051,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1024": {
     "id": 1024,
@@ -2841,7 +3062,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1025": {
     "id": 1025,
@@ -2851,7 +3073,8 @@
     },
     "faction": "Graveborn",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1031": {
     "id": 1031,
@@ -2861,7 +3084,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1032": {
     "id": 1032,
@@ -2871,7 +3095,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1034": {
     "id": 1034,
@@ -2881,7 +3106,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1044": {
     "id": 1044,
@@ -2891,7 +3117,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1048": {
     "id": 1048,
@@ -2901,7 +3128,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1060": {
     "id": 1060,
@@ -2911,7 +3139,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1061": {
     "id": 1061,
@@ -2921,7 +3150,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1062": {
     "id": 1062,
@@ -2931,7 +3161,8 @@
     },
     "faction": "Mauler",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "1067": {
     "id": 1067,
@@ -2941,7 +3172,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1068": {
     "id": 1068,
@@ -2951,7 +3183,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1074": {
     "id": 1074,
@@ -2961,7 +3194,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1075": {
     "id": 1075,
@@ -2971,7 +3205,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1083": {
     "id": 1083,
@@ -2981,7 +3216,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1092": {
     "id": 1092,
@@ -2991,7 +3227,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1098": {
     "id": 1098,
@@ -3001,7 +3238,8 @@
     },
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "1099": {
     "id": 1099,
@@ -3011,7 +3249,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1100": {
     "id": 1100,
@@ -3021,7 +3260,8 @@
     },
     "faction": "Dimensional",
     "class": "Ranger",
-    "job": "archer"
+    "job": "archer",
+    "isAwakened": false
   },
   "1105": {
     "id": 1105,
@@ -3031,7 +3271,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1115": {
     "id": 1115,
@@ -3041,7 +3282,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1122": {
     "id": 1122,
@@ -3051,7 +3293,8 @@
     },
     "faction": "Graveborn",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1123": {
     "id": 1123,
@@ -3061,7 +3304,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1124": {
     "id": 1124,
@@ -3071,7 +3315,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1125": {
     "id": 1125,
@@ -3081,7 +3326,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1127": {
     "id": 1127,
@@ -3091,7 +3337,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1128": {
     "id": 1128,
@@ -3101,7 +3348,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1138": {
     "id": 1138,
@@ -3111,7 +3359,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1139": {
     "id": 1139,
@@ -3121,7 +3370,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1141": {
     "id": 1141,
@@ -3131,7 +3381,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1148": {
     "id": 1148,
@@ -3141,7 +3392,8 @@
     },
     "faction": "Celestial",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1149": {
     "id": 1149,
@@ -3151,7 +3403,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1150": {
     "id": 1150,
@@ -3161,7 +3414,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1161": {
     "id": 1161,
@@ -3171,7 +3425,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1163": {
     "id": 1163,
@@ -3181,7 +3436,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1164": {
     "id": 1164,
@@ -3191,7 +3447,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1168": {
     "id": 1168,
@@ -3201,7 +3458,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1173": {
     "id": 1173,
@@ -3211,7 +3469,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1174": {
     "id": 1174,
@@ -3221,7 +3480,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1175": {
     "id": 1175,
@@ -3231,7 +3491,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1182": {
     "id": 1182,
@@ -3241,7 +3502,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1183": {
     "id": 1183,
@@ -3251,7 +3513,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1187": {
     "id": 1187,
@@ -3261,7 +3524,8 @@
     },
     "faction": "Hypogean",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1190": {
     "id": 1190,
@@ -3271,7 +3535,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "1191": {
     "id": 1191,
@@ -3281,7 +3546,8 @@
     },
     "faction": "Dimensional",
     "class": "Mage",
-    "job": "magician"
+    "job": "magician",
+    "isAwakened": false
   },
   "6001": {
     "id": 6001,
@@ -3292,7 +3558,8 @@
     "rarity": "rare",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6002": {
     "id": 6002,
@@ -3303,7 +3570,8 @@
     "rarity": "rare",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6003": {
     "id": 6003,
@@ -3314,7 +3582,8 @@
     "rarity": "rare",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6004": {
     "id": 6004,
@@ -3325,7 +3594,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6005": {
     "id": 6005,
@@ -3336,7 +3606,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6006": {
     "id": 6006,
@@ -3347,7 +3618,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6007": {
     "id": 6007,
@@ -3358,7 +3630,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6008": {
     "id": 6008,
@@ -3369,7 +3642,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6009": {
     "id": 6009,
@@ -3380,7 +3654,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6010": {
     "id": 6010,
@@ -3391,7 +3666,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6011": {
     "id": 6011,
@@ -3402,7 +3678,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6012": {
     "id": 6012,
@@ -3413,7 +3690,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6013": {
     "id": 6013,
@@ -3424,7 +3702,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6014": {
     "id": 6014,
@@ -3435,7 +3714,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6015": {
     "id": 6015,
@@ -3446,7 +3726,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6016": {
     "id": 6016,
@@ -3457,7 +3738,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6017": {
     "id": 6017,
@@ -3468,7 +3750,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6018": {
     "id": 6018,
@@ -3479,7 +3762,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6019": {
     "id": 6019,
@@ -3490,7 +3774,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6020": {
     "id": 6020,
@@ -3501,7 +3786,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6021": {
     "id": 6021,
@@ -3512,7 +3798,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6022": {
     "id": 6022,
@@ -3523,7 +3810,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6023": {
     "id": 6023,
@@ -3534,7 +3822,8 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   },
   "6024": {
     "id": 6024,
@@ -3545,6 +3834,7 @@
     "rarity": "elite",
     "faction": "Dimensional",
     "class": "Warrior",
-    "job": "tank"
+    "job": "tank",
+    "isAwakened": false
   }
 }

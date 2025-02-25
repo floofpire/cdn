@@ -1,291 +1,291 @@
-"id","codeName","names.en","rarity","faction","class","job","mainRole","secondRole"
-1,"General","Hogan","rare","Lightbearer","Warrior","tank","Tank","Control"
-2,"DR","Ira","rare","Wilder","Ranger","archer","Continuous Damage","Debuff"
-3,"Bard","Angelo","rare","Lightbearer","Mage","magician","Heal","Buff"
-4,"Uhlan","Estrilda","elite","Lightbearer","Warrior","tank","Burst Damage","Buff"
-5,"Yeanling","Nemora","elite","Wilder","Mage","magician","Heal","Control"
-6,"Titan","Ogi","rare","Wilder","Warrior","tank","Tank","Control"
-7,"OakSage","Arden","rare","Wilder","Mage","magician","Control","Burst Damage"
-8,"newNEC","Niru","rare","Graveborn","Mage","magician","Continuous Damage","Tank"
-9,"LionJugg","Brutus","elite","Mauler","Warrior","tank","Tank","Burst Damage"
-10,"Musketeer","Morvus","rare","Lightbearer","Ranger","archer","Assassin","Debuff"
-11,"Spider","Ankhira","rare","Mauler","Mage","magician","Control","Debuff"
-12,"CW","Golus","rare","Mauler","Warrior","tank","Tank","Control"
-13,"Lina","Mirael","rare","Lightbearer","Mage","magician","Burst Damage","AoE"
-14,"CatAssassin","Kaz","elite","Wilder","Ranger","archer","Assassin","Tank"
-15,"SilverAssassin","Silvina","rare","Graveborn","Ranger","archer","Assassin","Burst Damage"
-16,"POM","Lyca","elite","Wilder","Ranger","archer","Buff","Continuous Damage"
-17,"UDTank","Steixius","common","Graveborn","Warrior","tank","Continuous Damage","Debuff"
-18,"HumanPriest","Merek","common","Lightbearer","Mage","magician","Heal","Buff"
-19,"Treant","Dreaf","common","Wilder","Mage","magician","Continuous Damage","Debuff"
-20,"Priest","Belinda","elite","Lightbearer","Mage","magician","AoE","Buff"
-21,"UDSword","Sezis","common","Graveborn","Warrior","tank","Continuous Damage","Control"
-22,"HumanTrident","Ulric","common","Lightbearer","Warrior","tank","Control","Buff"
-23,"Huskar","Saveas","rare","Mauler","Ranger","archer","Continuous Damage","Burst Damage"
-24,"nFlood","Vedan","rare","Graveborn","Ranger","archer","Tank","AoE"
-25,"DK","Grezhul","elite","Graveborn","Warrior","tank","Tank","Buff"
-26,"Troll","Khasos","elite","Mauler","Warrior","tank","Continuous Damage","Buff"
-27,"nDP","Shemira","elite","Graveborn","Mage","magician","AoE","Tank"
-28,"Puck","Tasi","elite","Wilder","Mage","magician","Control","Buff"
-29,"OrcJackalTank","Bloodsnarl","common","Mauler","Warrior","tank","Continuous Damage","AoE"
-30,"ElfLancer","Eletha","common","Wilder","Warrior","tank","Continuous Damage","AoE"
-31,"OrcBatmaster","Arkadios","common","Mauler","Mage","magician","Continuous Damage","Debuff"
-32,"SNK","Thoran","elite","Graveborn","Warrior","tank","Tank","Burst Damage"
-33,"Wizard","Isabella","elite","Graveborn","Mage","magician","Continuous Damage","Assassin"
-34,"nBH","Raine","elite","Lightbearer","Ranger","archer","Buff","Continuous Damage"
-35,"Mouse","Vurk","elite","Mauler","Ranger","archer","AoE","Continuous Damage"
-36,"WD","Numisu","elite","Mauler","Mage","magician","Heal","Control"
-37,"DevilHunter","Fawkes","elite","Lightbearer","Ranger","archer","Control","Debuff"
-38,"Mag","Skreg","elite","Mauler","Warrior","tank","Tank","Control"
-39,"Pudge","Nara","elite","Graveborn","Warrior","tank","Assassin","Burst Damage"
-41,"BoneArcher","Ferael","elite","Graveborn","Ranger","archer","Continuous Damage","Debuff"
-42,"TD","Ulmus","elite","Wilder","Warrior","tank","Tank","Heal"
-43,"Bear","Warek","elite","Mauler","Warrior","tank","Continuous Damage","Tank"
-44,"OK","Lucius","elite","Lightbearer","Warrior","tank","Heal","Tank"
-45,"SwordMaster","Thane","elite","Lightbearer","Ranger","archer","Assassin","Continuous Damage"
-46,"TH","Seirus","elite","Wilder","Warrior","tank","Tank","Control"
-47,"Valkyrie","Antandra","elite","Mauler","Ranger","archer","Continuous Damage","Buff"
-48,"ElfSaber","Eironn","elite","Wilder","Ranger","archer","AoE","Debuff"
-49,"GhostSaber","Baden","elite","Graveborn","Ranger","archer","Continuous Damage","Tank"
-50,"GK","Hendrik","elite","Lightbearer","Warrior","tank","Tank","Buff"
-51,"NOD","Safiya","elite","Mauler","Mage","magician","AoE","Buff"
-52,"Merchant","Rowan","elite","Lightbearer","Mage","magician","Buff","Heal"
-54,"FoxMagician","Satrana","elite","Mauler","Mage","magician","Burst Damage","AoE"
-55,"GodA","Athalia","elite","Celestial","Ranger","archer","Assassin","Burst Damage"
-56,"Bane","Ezizh","elite","Hypogean","Warrior","tank","Debuff","Continuous Damage"
-57,"Turtle","Gorvo","elite","Wilder","Warrior","tank","Tank","Control"
-58,"Revenger","Kelthur","elite","Graveborn","Ranger","archer","Assassin","Continuous Damage"
-59,"LUST","Mehira","elite","Hypogean","Mage","magician","Control","Tank"
-60,"Longbow","Gwyneth","elite","Lightbearer","Warrior","tank","Continuous Damage","Debuff"
-61,"Maid","Rosaline","elite","Lightbearer","Mage","magician","Buff","Continuous Damage"
-62,"TwinsB","Elijah & Lailah","elite","Celestial","Mage","magician","Buff","Heal"
-63,"UDD","Silas","elite","Graveborn","Mage","magician","Buff","Heal"
-64,"DT","Zolrath","elite","Hypogean","Ranger","archer","Assassin","Continuous Damage"
-65,"BunnyMaster","Lorsan","elite","Wilder","Mage","magician","AoE","Debuff"
-66,"NunAssassin","Cecilia","elite","Lightbearer","Ranger","archer","Assassin","Burst Damage"
-67,"Mystic","Oden","elite","Graveborn","Mage","magician","AoE","Debuff"
-68,"Wino","Rigby","elite","Lightbearer","Warrior","tank","Tank","Continuous Damage"
-69,"TimeG","Orthros","elite","Celestial","Warrior","tank","Tank","Debuff"
-70,"Wolf","Tidus","elite","Mauler","Ranger","archer","Continuous Damage","Control"
-71,"SciMonster","Izold","elite","Graveborn","Warrior","tank","Tank","Continuous Damage"
-72,"HouseKeeper","Oscar","elite","Lightbearer","Ranger","archer","Assassin","Continuous Damage"
-73,"Phoenix","Talene","elite","Celestial","Ranger","archer","Continuous Damage","Heal"
-74,"Lizard","Saurus","elite","Wilder","Warrior","tank","Continuous Damage","Buff"
-75,"Nakoruru","Nakoruru","elite","Dimensional","Ranger","archer","Burst Damage","Assassin"
-76,"IceD","Khazard","elite","Hypogean","Mage","magician","Control","Debuff"
-77,"OA","Drez","elite","Mauler","Ranger","archer","Burst Damage","Assassin"
-78,"Arthur","Arthur","elite","Dimensional","Warrior","tank","Tank","Burst Damage"
-80,"NT","Solise","elite","Wilder","Mage","magician","Control","Buff"
-83,"Wildkin","Skriath","elite","Mauler","Mage","magician","AoE","Control"
-84,"MK","Wu Kong","elite","Celestial","Warrior","tank","Continuous Damage","Tank"
-85,"Fat","Mezoth","elite","Hypogean","Warrior","tank","Tank","Control"
-86,"UKYO","Ukyo","elite","Dimensional","Ranger","archer","Continuous Damage","Control"
-87,"OrcLeader","Anoki","elite","Mauler","Warrior","tank","Control","Buff"
-88,"Bones","Torne","elite","Graveborn","Warrior","tank","Tank","Continuous Damage"
-89,"Spring","Flora","elite","Celestial","Mage","magician","Continuous Damage","AoE"
-90,"DKid","Daimon","elite","Graveborn","Warrior","tank","Tank","Continuous Damage"
-91,"Phantom","Theowyn","elite","Graveborn","Ranger","archer","Continuous Damage","Debuff"
-92,"Ezio","Ezio","elite","Dimensional","Ranger","archer","Assassin","Burst Damage"
-93,"THW","Lucretia","elite","Hypogean","Ranger","archer","Assassin","Continuous Damage"
-94,"SSR","Pippa","elite","Wilder","Mage","magician","Continuous Damage","Control"
-95,"POP","Prince of Persia","elite","Dimensional","Ranger","archer","Burst Damage","Assassin"
-96,"Thor","Zaphrael","elite","Celestial","Mage","magician","Continuous Damage","AoE"
-97,"Yalbed","Albedo","elite","Dimensional","Warrior","tank","Tank","Buff"
-98,"Anz","Ainz Ooal Gown","elite","Dimensional","Mage","magician","Continuous Damage","Buff"
-99,"GD","Mortas","elite","Hypogean","Ranger","archer","Heal","Buff"
-100,"QN","QUEEN","elite","Dimensional","Warrior","tank","Continuous Damage","Control"
-101,"JK","JOKER","elite","Dimensional","Ranger","archer","Continuous Damage","Control"
-102,"WinterL","Alna","elite","Celestial","Ranger","archer","Debuff","Tank"
-103,"TechMouse","Kren","elite","Mauler","Ranger","archer","Continuous Damage","Control"
-104,"WindMan","Respen","elite","Wilder","Ranger","archer","Burst Damage","Control"
-105,"Clergy","Eluard","elite","Lightbearer","Mage","magician","AoE","Buff"
-106,"TricRacoon","Raku","elite","Wilder","Ranger","archer","Burst Damage","Control"
-107,"Princess","Peggy","elite","Lightbearer","Mage","magician","Heal","Control"
-108,"AstroM","Morael","elite","Celestial","Mage","magician","Continuous Damage","AoE"
-109,"Siren","Desira","elite","Graveborn","Mage","magician","Heal","Debuff"
-110,"Gunner","Walker","elite","Lightbearer","Warrior","tank","Continuous Damage","AoE"
-111,"GentryD","Leofric","elite","Hypogean","Mage","magician","Debuff","Control"
-112,"Merlin","Merlin","elite","Dimensional","Mage","magician","Heal","Buff"
-113,"CrazyFox","Thali","elite","Mauler","Mage","magician","Continuous Damage","Burst Damage"
-114,"Golem","Titus","elite","Celestial","Warrior","tank","Tank","Continuous Damage"
-115,"Captain","Hodgkin","elite","Graveborn","Warrior","tank","Tank","Debuff"
-116,"DevilMage","Morrow","elite","Lightbearer","Mage","magician","Control","Debuff"
-117,"LazyD","Zikis","elite","Hypogean","Ranger","archer","Continuous Damage","Burst Damage"
-118,"Stone","Granit","elite","Mauler","Warrior","tank","Tank","Control"
-119,"LDV","Leonardo","elite","Dimensional","Mage","magician","Control","AoE"
-120,"BDruid","Mishka","elite","Wilder","Warrior","tank","Control","Tank"
-121,"Artisan","Haelus","elite","Celestial","Mage","magician","Buff","Debuff"
-122,"CKnight","Treznor","elite","Graveborn","Ranger","archer","Control","Burst Damage"
-123,"SnakeMan","Thesku","elite","Mauler","Mage","magician","Control","Debuff"
-124,"SPhoenix","Talene","legendary","Celestial","Mage","magician","Buff","Heal"
-125,"FP","Framton","elite","Hypogean","Ranger","archer","Continuous Damage","Control"
-126,"FlameE","Astar","elite","Wilder","Mage","magician","Heal","Continuous Damage"
-127,"BM","Scarlet","elite","Lightbearer","Mage","magician","Burst Damage","Continuous Damage"
-128,"Babayaga","Melusina","elite","Dimensional","Mage","magician","Burst Damage","Debuff"
-129,"Gaoler","Fane","elite","Graveborn","Ranger","archer","Debuff","Control"
-130,"SBane","Ezizh","legendary","Hypogean","Mage","magician","Continuous Damage","Control"
-131,"Scout","Alaro","elite","Mauler","Ranger","archer","Buff","Debuff"
-132,"AstroR","Audrae","elite","Celestial","Ranger","archer","Continuous Damage","Burst Damage"
-133,"DruidMaster","Oku","elite","Wilder","Warrior","tank","Tank","Control"
-134,"WindSM","Thane","legendary","Lightbearer","Ranger","archer","Burst Damage","Buff"
-135,"Hidan","Vyloris","elite","Hypogean","Mage","magician","Burst Damage","Debuff"
-136,"Sonia","Sonja","elite","Lightbearer","Ranger","archer","Buff","Tank"
-137,"OrcMaster","Anasta","elite","Mauler","Warrior","tank","Continuous Damage","Control"
-138,"Karen","Kalene","elite","Graveborn","Mage","magician","Continuous Damage","Control"
-139,"SLK","Brutus","legendary","Mauler","Warrior","tank","Continuous Damage","Buff"
-140,"JOA","Joan of Arc","elite","Dimensional","Warrior","tank","Buff","Heal"
-141,"Alen","Eorin","elite","Wilder","Ranger","archer","Burst Damage","Assassin"
-142,"Patronus","Tarnos","elite","Celestial","Warrior","tank","Continuous Damage","Control"
-143,"WNT","Solise","legendary","Wilder","Mage","magician","Heal","Buff"
-144,"GOR","Geralt","elite","Dimensional","Ranger","archer","Continuous Damage","Control"
-145,"YNF","Yennefer","elite","Dimensional","Mage","magician","Buff","Control"
-146,"Chimera","Canisa & Ruke","elite","Hypogean","Warrior","tank","Tank","Control"
-147,"Flora","Nevanthi","elite","Wilder","Mage","magician","Heal","Buff"
-148,"SBD","Baden","legendary","Graveborn","Warrior","tank","Continuous Damage","Control"
-149,"CurseCarrier","Salaki","elite","Mauler","Mage","magician","Buff","Debuff"
-150,"Bishop","Palmer","elite","Lightbearer","Mage","magician","Buff","Heal"
-151,"Mars","Veithael","elite","Celestial","Ranger","archer","Tank","Continuous Damage"
-152,"HML","Mulan","elite","Dimensional","Ranger","archer","Continuous Damage","Control"
-153,"HFP","Belinda","legendary","Lightbearer","Mage","magician","Burst Damage","Continuous Damage"
-154,"TSL","Tamrus","elite","Wilder","Ranger","archer","Control","Buff"
-155,"DOA","Olgath","elite","Hypogean","Ranger","archer","Continuous Damage","AoE"
-156,"Adwin","Edwin","elite","Graveborn","Warrior","tank","Tank","Debuff"
-157,"BSparrow","Maetria","legendary","Hypogean","Mage","magician","Continuous Damage","Debuff"
-158,"Slacker","Crassio","elite","Mauler","Ranger","archer","Continuous Damage","Assassin"
-159,"EMT","Emilia","elite","Dimensional","Mage","magician","Control","Buff"
-160,"RM","Rem","elite","Dimensional","Warrior","tank","Continuous Damage","Continuous Damage"
-161,"DivineBlade","Athalia","legendary","Celestial","Ranger","archer","Burst Damage","Assassin"
-162,"HammerMan","Ginneas","elite","Lightbearer","Warrior","tank","Tank","Control"
-163,"Summer","Daemia","elite","Celestial","Mage","magician","Continuous Damage","Debuff"
-164,"SO","Trishea","elite","Wilder","Mage","magician","Continuous Damage","Burst Damage"
-165,"SQ","Safiya","legendary","Mauler","Mage","magician","Buff","AoE"
-166,"BC","Ivan","elite","Graveborn","Mage","magician","Buff","Control"
-167,"SWQ","Naroko","elite","Mauler","Warrior","tank","Heal","Buff"
-168,"Lucilla","Lucilla","elite","Hypogean","Warrior","tank","Debuff","Buff"
-169,"Liberta","Liberta","elite","Celestial","Mage","magician","Continuous Damage","Heal"
-170,"AstroPOM","Lyca","legendary","Wilder","Ranger","archer","Continuous Damage","Buff"
-171,"Admiral","Jerome","elite","Lightbearer","Warrior","tank","Buff","Tank"
-172,"Robin","Robin Hood","elite","Dimensional","Ranger","archer","Debuff","Continuous Damage"
-173,"Calypso","Shemira","legendary","Graveborn","Mage","magician","Tank","Debuff"
-174,"Ringer","Lady Simona","elite","Graveborn","Mage","magician","Control","Debuff"
-175,"BassD","Lavatune","elite","Hypogean","Mage","magician","Buff","Control"
-176,"TopMaster","Vika","elite","Mauler","Mage","magician","Continuous Damage","Control"
-177,"Ruler","Gavus","legendary","Celestial","Mage","magician","Continuous Damage","Buff"
-178,"Disorder","Eugene","legendary","Hypogean","Mage","magician","AoE","Continuous Damage"
-179,"DHT","Atheus","elite","Wilder","Mage","magician","Tank","Control"
-180,"Mess","Malkrie","elite","Celestial","Ranger","archer","Continuous Damage","Control"
-181,"Paladin","Lucius","legendary","Lightbearer","Warrior","tank","Tank","Continuous Damage"
-182,"TangoD","Adrian & Elyse","elite","Lightbearer","Ranger","archer","Control","Buff"
-183,"TombKeeper","Bronn","elite","Graveborn","Warrior","tank","Buff","Continuous Damage"
-184,"Purga","Kalthin","elite","Hypogean","Warrior","tank","Continuous Damage","Debuff"
-185,"DFiery","Hildwin","legendary","Draconis","Mage","magician","Continuous Damage","Control"
-186,"DLongbow","Gwyneth","legendary","Draconis","Warrior","tank","Continuous Damage","Debuff"
-187,"DPop","Nyla","elite","Draconis","Mage","magician","Control","Continuous Damage"
-188,"DVain","Pulina","elite","Draconis","Ranger","archer","Continuous Damage","Burst Damage"
-189,"DHerald","Cassius","elite","Draconis","Mage","magician","Tank","Control"
-190,"DCute","Gourgue","rare","Draconis","Mage","magician","Buff","Burst Damage"
-191,"Dpower","Draconis Warrior","common","Draconis","Warrior","tank","Tank","Burst Damage"
-192,"Dbow","Draconis Archer","common","Draconis","Ranger","archer","Continuous Damage","Buff"
-193,"ScorpionLady","Villanelle","elite","Mauler","Ranger","archer","Debuff","Control"
-194,"PinkWitch","Shuna","elite","Dimensional","Mage","magician","Buff","Control"
-195,"CuteLord","Rimuru","elite","Dimensional","Mage","magician","Burst Damage","Buff"
-196,"SLeopard","Antandra","legendary","Mauler","Ranger","archer","Continuous Damage","Debuff"
-197,"DEnforcer","Melion","elite","Draconis","Mage","magician","Control","Buff"
-198,"Shamus","Raoul","elite","Lightbearer","Mage","magician","Debuff","Burst Damage"
-199,"DLoong","Lan","legendary","Draconis","Mage","magician","Buff","Control"
-200,"Snail","Misha","elite","Wilder","Mage","magician","Control","Debuff"
-201,"CrySword","Eironn","legendary","Wilder","Ranger","archer","Continuous Damage","Control"
-202,"AutumnG","Aurelia","elite","Celestial","Mage","magician","Buff","Continuous Damage"
-203,"DConcierge","Kregor","elite","Draconis","Warrior","tank","Buff","Control"
-204,"SoulScythe","Randle","elite","Graveborn","Ranger","archer","Continuous Damage","Buff"
-205,"SNKStorm","Thoran","legendary","Graveborn","Warrior","tank","Tank","Burst Damage"
-206,"Geezer","Knox","elite","Hypogean","Mage","magician","Debuff","Continuous Damage"
-207,"DSky","Skylan","legendary","Draconis","Ranger","archer","Continuous Damage","Debuff"
-208,"Orcook","Gorren","elite","Mauler","Ranger","archer","Buff","Burst Damage"
-209,"Zorah","Zohra","legendary","Celestial","Mage","magician","Continuous Damage","Control"
-210,"BloodS","Shalltear Bloodfallen","elite","Dimensional","Warrior","tank","Continuous Damage","Control"
-211,"DTornado","Sion","elite","Draconis","Ranger","archer","Continuous Damage","Debuff"
-212,"Dsun","Haelia","legendary","Draconis","Warrior","tank","Burst Damage","Buff"
-213,"Daughter","Mira","elite","Graveborn","Mage","magician","Burst Damage","Control"
-1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,
-1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,
-1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,
-1006,"Goblin","Wrizz",,"Mauler","Warrior","tank",,
-1007,"SoulCalibur","Soren",,"Graveborn","Warrior","tank",,
-1008,"DevilImp","Fiend",,"Hypogean","Mage","magician",,
-1012,"DarkYeanling","Demonic Nemora",,"Hypogean","Mage","magician",,
-1014,"DwarfE","Dwarven Bombardier",,"Lightbearer","Ranger","archer",,
-1015,"DwarfS","Dwarven Pulverizer",,"Lightbearer","Warrior","tank",,
-1016,"BossDQ","Ice Shemira",,"Graveborn","Mage","magician",,
-1017,"BossYM","Burning Brute",,"Dimensional","Ranger","archer",,
-1022,"WBossOakSage","Arden",,"Wilder","Mage","magician",,
-1023,"BossDM","Azmonath",,"Hypogean","Mage","magician",,
-1024,"BossCthulhu","Gouldos",,"Hypogean","Mage","magician",,
-1025,"BossMystic","Idre",,"Graveborn","Mage","magician",,
-1031,"BossHGMN","Adrax",,"Dimensional","Mage","magician",,
-1032,"BossHGM","Adrax",,"Dimensional","Mage","magician",,
-1034,"BossBane","Ezizh",,"Dimensional","Mage","magician",,
-1044,"BossBA","The Balancer",,"Hypogean","Mage","magician",,
-1048,"BossROG","Arbiter of Chaos",,"Hypogean","Mage","magician",,
-1060,"BossPreyS","Oleus",,"Dimensional","Mage","magician",,
-1061,"BossPreyB","Oleus",,"Dimensional","Mage","magician",,
-1062,"GoblinFeast","Wrizz",,"Mauler","Warrior","tank",,
-1067,"BossDragonS","Dalax",,"Dimensional","Mage","magician",,
-1068,"BossDragonB","Dalax",,"Dimensional","Mage","magician",,
-1074,"BossWorm","Marsha",,"Dimensional","Mage","magician",,
-1075,"BossLionAct","Dune Destroyer",,"Dimensional","Mage","magician",,
-1083,"BossSBDAct","Swamp Corruptor",,"Dimensional","Mage","magician",,
-1092,"DarkCrow","Raven Whisperer",,"Hypogean","Mage","magician",,
-1098,"BossFireWorks","Fortune Firecrackers",,"Dimensional","Warrior","tank",,
-1099,"BossFStoneLion","Lioness Guard",,"Dimensional","Mage","magician",,
-1100,"BossMStoneLion","Lion Guard",,"Dimensional","Ranger","archer",,
-1105,"BossCrab","Clawlossus",,"Dimensional","Mage","magician",,
-1115,"BOSSMD","The Fire Daemon",,"Dimensional","Mage","magician",,
-1122,"BossBride","Duskwailer",,"Graveborn","Mage","magician",,
-1123,"BossNightmare","Mask Curator",,"Hypogean","Mage","magician",,
-1124,"BossDevilDog","Soul Hound",,"Dimensional","Mage","magician",,
-1125,"RBossDoll","Demonic Puppet",,"Hypogean","Mage","magician",,
-1127,"RBossIronMaiden","The Light Martyr",,"Hypogean","Mage","magician",,
-1128,"BossMoonkin","Sky Serpent",,"Dimensional","Mage","magician",,
-1138,"BossMirror","Mirror Demon",,"Hypogean","Mage","magician",,
-1139,"BossMirrorP","Mirror Demon",,"Hypogean","Mage","magician",,
-1141,"BossCannon","Raging Cannon",,"Hypogean","Mage","magician",,
-1148,"BossDharma","Morgana",,"Celestial","Mage","magician",,
-1149,"RBossHydra","Morass Diabolus",,"Hypogean","Mage","magician",,
-1150,"BossKondra","Conrad",,"Hypogean","Mage","magician",,
-1161,"BossBait","Darkness Rising",,"Dimensional","Mage","magician",,
-1163,"BossCannibal","Ossivorous Spore",,"Dimensional","Mage","magician",,
-1164,"BossStalker","Cruel Crow",,"Hypogean","Mage","magician",,
-1168,"BossDevilGoat","Asmogus",,"Hypogean","Mage","magician",,
-1173,"BossSoulLocker","Soulchain Knight",,"Dimensional","Mage","magician",,
-1174,"BossTree","Bloodvine Wraith",,"Hypogean","Mage","magician",,
-1175,"BossBlade","Wraith Reaver",,"Hypogean","Mage","magician",,
-1182,"BossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,
-1183,"BossConductor","Abyssal Maestro",,"Dimensional","Mage","magician",,
-1187,"BossDarkPlanet","Astral Devourer",,"Hypogean","Mage","magician",,
-1190,"BossDoubleJoker","Fractured Fool",,"Dimensional","Mage","magician",,
-1191,"RBossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,
-6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,
-6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,
-6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,
-6004,"Yeti","Polar Beast","elite","Dimensional","Warrior","tank",,
-6005,"Efreet","Fire Breather","elite","Dimensional","Warrior","tank",,
-6006,"SwordL","Blade Ridge","elite","Dimensional","Warrior","tank",,
-6007,"GLion","Winged Lion","elite","Dimensional","Warrior","tank",,
-6008,"ShieldL","Rock Crown Lizard","elite","Dimensional","Warrior","tank",,
-6009,"PLion","Feline Vesperio","elite","Dimensional","Warrior","tank",,
-6010,"PDeer","Bellbellow","elite","Dimensional","Warrior","tank",,
-6011,"TimeOwl","Flutterplume Owl","elite","Dimensional","Warrior","tank",,
-6012,"Auspi","Talismane","elite","Dimensional","Warrior","tank",,
-6013,"BFY","Phantasmoth","elite","Dimensional","Warrior","tank",,
-6014,"Sala","Savage Soufflé","elite","Dimensional","Warrior","tank",,
-6015,"Otter","Slumber Seal","elite","Dimensional","Warrior","tank",,
-6016,"ScarletFox","Fox Fatale","elite","Dimensional","Warrior","tank",,
-6017,"DSpider","Shroom Spooder","elite","Dimensional","Warrior","tank",,
-6018,"Vegelf","Radish Rotunda","elite","Dimensional","Warrior","tank",,
-6019,"Ailuro","Pandy Dumpty","elite","Dimensional","Warrior","tank",,
-6020,"Jellyfish","Ice Crown","elite","Dimensional","Warrior","tank",,
-6021,"CutyDragon","Aureus","elite","Dimensional","Warrior","tank",,
-6022,"Ibis","Pearlcrest Ibis","elite","Dimensional","Warrior","tank",,
-6023,"CandyGhost","Treatspector","elite","Dimensional","Warrior","tank",,
-6024,"FireSnake","Joyous Roamer","elite","Dimensional","Warrior","tank",,
+"id","codeName","names.en","rarity","faction","class","job","mainRole","secondRole","isAwakened"
+1,"General","Hogan","rare","Lightbearer","Warrior","tank","Tank","Control",false
+2,"DR","Ira","rare","Wilder","Ranger","archer","Continuous Damage","Debuff",false
+3,"Bard","Angelo","rare","Lightbearer","Mage","magician","Heal","Buff",false
+4,"Uhlan","Estrilda","elite","Lightbearer","Warrior","tank","Burst Damage","Buff",false
+5,"Yeanling","Nemora","elite","Wilder","Mage","magician","Heal","Control",false
+6,"Titan","Ogi","rare","Wilder","Warrior","tank","Tank","Control",false
+7,"OakSage","Arden","rare","Wilder","Mage","magician","Control","Burst Damage",false
+8,"newNEC","Niru","rare","Graveborn","Mage","magician","Continuous Damage","Tank",false
+9,"LionJugg","Brutus","elite","Mauler","Warrior","tank","Tank","Burst Damage",false
+10,"Musketeer","Morvus","rare","Lightbearer","Ranger","archer","Assassin","Debuff",false
+11,"Spider","Ankhira","rare","Mauler","Mage","magician","Control","Debuff",false
+12,"CW","Golus","rare","Mauler","Warrior","tank","Tank","Control",false
+13,"Lina","Mirael","rare","Lightbearer","Mage","magician","Burst Damage","AoE",false
+14,"CatAssassin","Kaz","elite","Wilder","Ranger","archer","Assassin","Tank",false
+15,"SilverAssassin","Silvina","rare","Graveborn","Ranger","archer","Assassin","Burst Damage",false
+16,"POM","Lyca","elite","Wilder","Ranger","archer","Buff","Continuous Damage",false
+17,"UDTank","Steixius","common","Graveborn","Warrior","tank","Continuous Damage","Debuff",false
+18,"HumanPriest","Merek","common","Lightbearer","Mage","magician","Heal","Buff",false
+19,"Treant","Dreaf","common","Wilder","Mage","magician","Continuous Damage","Debuff",false
+20,"Priest","Belinda","elite","Lightbearer","Mage","magician","AoE","Buff",false
+21,"UDSword","Sezis","common","Graveborn","Warrior","tank","Continuous Damage","Control",false
+22,"HumanTrident","Ulric","common","Lightbearer","Warrior","tank","Control","Buff",false
+23,"Huskar","Saveas","rare","Mauler","Ranger","archer","Continuous Damage","Burst Damage",false
+24,"nFlood","Vedan","rare","Graveborn","Ranger","archer","Tank","AoE",false
+25,"DK","Grezhul","elite","Graveborn","Warrior","tank","Tank","Buff",false
+26,"Troll","Khasos","elite","Mauler","Warrior","tank","Continuous Damage","Buff",false
+27,"nDP","Shemira","elite","Graveborn","Mage","magician","AoE","Tank",false
+28,"Puck","Tasi","elite","Wilder","Mage","magician","Control","Buff",false
+29,"OrcJackalTank","Bloodsnarl","common","Mauler","Warrior","tank","Continuous Damage","AoE",false
+30,"ElfLancer","Eletha","common","Wilder","Warrior","tank","Continuous Damage","AoE",false
+31,"OrcBatmaster","Arkadios","common","Mauler","Mage","magician","Continuous Damage","Debuff",false
+32,"SNK","Thoran","elite","Graveborn","Warrior","tank","Tank","Burst Damage",false
+33,"Wizard","Isabella","elite","Graveborn","Mage","magician","Continuous Damage","Assassin",false
+34,"nBH","Raine","elite","Lightbearer","Ranger","archer","Buff","Continuous Damage",false
+35,"Mouse","Vurk","elite","Mauler","Ranger","archer","AoE","Continuous Damage",false
+36,"WD","Numisu","elite","Mauler","Mage","magician","Heal","Control",false
+37,"DevilHunter","Fawkes","elite","Lightbearer","Ranger","archer","Control","Debuff",false
+38,"Mag","Skreg","elite","Mauler","Warrior","tank","Tank","Control",false
+39,"Pudge","Nara","elite","Graveborn","Warrior","tank","Assassin","Burst Damage",false
+41,"BoneArcher","Ferael","elite","Graveborn","Ranger","archer","Continuous Damage","Debuff",false
+42,"TD","Ulmus","elite","Wilder","Warrior","tank","Tank","Heal",false
+43,"Bear","Warek","elite","Mauler","Warrior","tank","Continuous Damage","Tank",false
+44,"OK","Lucius","elite","Lightbearer","Warrior","tank","Heal","Tank",false
+45,"SwordMaster","Thane","elite","Lightbearer","Ranger","archer","Assassin","Continuous Damage",false
+46,"TH","Seirus","elite","Wilder","Warrior","tank","Tank","Control",false
+47,"Valkyrie","Antandra","elite","Mauler","Ranger","archer","Continuous Damage","Buff",false
+48,"ElfSaber","Eironn","elite","Wilder","Ranger","archer","AoE","Debuff",false
+49,"GhostSaber","Baden","elite","Graveborn","Ranger","archer","Continuous Damage","Tank",false
+50,"GK","Hendrik","elite","Lightbearer","Warrior","tank","Tank","Buff",false
+51,"NOD","Safiya","elite","Mauler","Mage","magician","AoE","Buff",false
+52,"Merchant","Rowan","elite","Lightbearer","Mage","magician","Buff","Heal",false
+54,"FoxMagician","Satrana","elite","Mauler","Mage","magician","Burst Damage","AoE",false
+55,"GodA","Athalia","elite","Celestial","Ranger","archer","Assassin","Burst Damage",false
+56,"Bane","Ezizh","elite","Hypogean","Warrior","tank","Debuff","Continuous Damage",false
+57,"Turtle","Gorvo","elite","Wilder","Warrior","tank","Tank","Control",false
+58,"Revenger","Kelthur","elite","Graveborn","Ranger","archer","Assassin","Continuous Damage",false
+59,"LUST","Mehira","elite","Hypogean","Mage","magician","Control","Tank",false
+60,"Longbow","Gwyneth","elite","Lightbearer","Warrior","tank","Continuous Damage","Debuff",false
+61,"Maid","Rosaline","elite","Lightbearer","Mage","magician","Buff","Continuous Damage",false
+62,"TwinsB","Elijah & Lailah","elite","Celestial","Mage","magician","Buff","Heal",false
+63,"UDD","Silas","elite","Graveborn","Mage","magician","Buff","Heal",false
+64,"DT","Zolrath","elite","Hypogean","Ranger","archer","Assassin","Continuous Damage",false
+65,"BunnyMaster","Lorsan","elite","Wilder","Mage","magician","AoE","Debuff",false
+66,"NunAssassin","Cecilia","elite","Lightbearer","Ranger","archer","Assassin","Burst Damage",false
+67,"Mystic","Oden","elite","Graveborn","Mage","magician","AoE","Debuff",false
+68,"Wino","Rigby","elite","Lightbearer","Warrior","tank","Tank","Continuous Damage",false
+69,"TimeG","Orthros","elite","Celestial","Warrior","tank","Tank","Debuff",false
+70,"Wolf","Tidus","elite","Mauler","Ranger","archer","Continuous Damage","Control",false
+71,"SciMonster","Izold","elite","Graveborn","Warrior","tank","Tank","Continuous Damage",false
+72,"HouseKeeper","Oscar","elite","Lightbearer","Ranger","archer","Assassin","Continuous Damage",false
+73,"Phoenix","Talene","elite","Celestial","Ranger","archer","Continuous Damage","Heal",false
+74,"Lizard","Saurus","elite","Wilder","Warrior","tank","Continuous Damage","Buff",false
+75,"Nakoruru","Nakoruru","elite","Dimensional","Ranger","archer","Burst Damage","Assassin",false
+76,"IceD","Khazard","elite","Hypogean","Mage","magician","Control","Debuff",false
+77,"OA","Drez","elite","Mauler","Ranger","archer","Burst Damage","Assassin",false
+78,"Arthur","Arthur","elite","Dimensional","Warrior","tank","Tank","Burst Damage",false
+80,"NT","Solise","elite","Wilder","Mage","magician","Control","Buff",false
+83,"Wildkin","Skriath","elite","Mauler","Mage","magician","AoE","Control",false
+84,"MK","Wu Kong","elite","Celestial","Warrior","tank","Continuous Damage","Tank",false
+85,"Fat","Mezoth","elite","Hypogean","Warrior","tank","Tank","Control",false
+86,"UKYO","Ukyo","elite","Dimensional","Ranger","archer","Continuous Damage","Control",false
+87,"OrcLeader","Anoki","elite","Mauler","Warrior","tank","Control","Buff",false
+88,"Bones","Torne","elite","Graveborn","Warrior","tank","Tank","Continuous Damage",false
+89,"Spring","Flora","elite","Celestial","Mage","magician","Continuous Damage","AoE",false
+90,"DKid","Daimon","elite","Graveborn","Warrior","tank","Tank","Continuous Damage",false
+91,"Phantom","Theowyn","elite","Graveborn","Ranger","archer","Continuous Damage","Debuff",false
+92,"Ezio","Ezio","elite","Dimensional","Ranger","archer","Assassin","Burst Damage",false
+93,"THW","Lucretia","elite","Hypogean","Ranger","archer","Assassin","Continuous Damage",false
+94,"SSR","Pippa","elite","Wilder","Mage","magician","Continuous Damage","Control",false
+95,"POP","Prince of Persia","elite","Dimensional","Ranger","archer","Burst Damage","Assassin",false
+96,"Thor","Zaphrael","elite","Celestial","Mage","magician","Continuous Damage","AoE",false
+97,"Yalbed","Albedo","elite","Dimensional","Warrior","tank","Tank","Buff",false
+98,"Anz","Ainz Ooal Gown","elite","Dimensional","Mage","magician","Continuous Damage","Buff",false
+99,"GD","Mortas","elite","Hypogean","Ranger","archer","Heal","Buff",false
+100,"QN","QUEEN","elite","Dimensional","Warrior","tank","Continuous Damage","Control",false
+101,"JK","JOKER","elite","Dimensional","Ranger","archer","Continuous Damage","Control",false
+102,"WinterL","Alna","elite","Celestial","Ranger","archer","Debuff","Tank",false
+103,"TechMouse","Kren","elite","Mauler","Ranger","archer","Continuous Damage","Control",false
+104,"WindMan","Respen","elite","Wilder","Ranger","archer","Burst Damage","Control",false
+105,"Clergy","Eluard","elite","Lightbearer","Mage","magician","AoE","Buff",false
+106,"TricRacoon","Raku","elite","Wilder","Ranger","archer","Burst Damage","Control",false
+107,"Princess","Peggy","elite","Lightbearer","Mage","magician","Heal","Control",false
+108,"AstroM","Morael","elite","Celestial","Mage","magician","Continuous Damage","AoE",false
+109,"Siren","Desira","elite","Graveborn","Mage","magician","Heal","Debuff",false
+110,"Gunner","Walker","elite","Lightbearer","Warrior","tank","Continuous Damage","AoE",false
+111,"GentryD","Leofric","elite","Hypogean","Mage","magician","Debuff","Control",false
+112,"Merlin","Merlin","elite","Dimensional","Mage","magician","Heal","Buff",false
+113,"CrazyFox","Thali","elite","Mauler","Mage","magician","Continuous Damage","Burst Damage",false
+114,"Golem","Titus","elite","Celestial","Warrior","tank","Tank","Continuous Damage",false
+115,"Captain","Hodgkin","elite","Graveborn","Warrior","tank","Tank","Debuff",false
+116,"DevilMage","Morrow","elite","Lightbearer","Mage","magician","Control","Debuff",false
+117,"LazyD","Zikis","elite","Hypogean","Ranger","archer","Continuous Damage","Burst Damage",false
+118,"Stone","Granit","elite","Mauler","Warrior","tank","Tank","Control",false
+119,"LDV","Leonardo","elite","Dimensional","Mage","magician","Control","AoE",false
+120,"BDruid","Mishka","elite","Wilder","Warrior","tank","Control","Tank",false
+121,"Artisan","Haelus","elite","Celestial","Mage","magician","Buff","Debuff",false
+122,"CKnight","Treznor","elite","Graveborn","Ranger","archer","Control","Burst Damage",false
+123,"SnakeMan","Thesku","elite","Mauler","Mage","magician","Control","Debuff",false
+124,"SPhoenix","Talene","legendary","Celestial","Mage","magician","Buff","Heal",true
+125,"FP","Framton","elite","Hypogean","Ranger","archer","Continuous Damage","Control",false
+126,"FlameE","Astar","elite","Wilder","Mage","magician","Heal","Continuous Damage",false
+127,"BM","Scarlet","elite","Lightbearer","Mage","magician","Burst Damage","Continuous Damage",false
+128,"Babayaga","Melusina","elite","Dimensional","Mage","magician","Burst Damage","Debuff",false
+129,"Gaoler","Fane","elite","Graveborn","Ranger","archer","Debuff","Control",false
+130,"SBane","Ezizh","legendary","Hypogean","Mage","magician","Continuous Damage","Control",true
+131,"Scout","Alaro","elite","Mauler","Ranger","archer","Buff","Debuff",false
+132,"AstroR","Audrae","elite","Celestial","Ranger","archer","Continuous Damage","Burst Damage",false
+133,"DruidMaster","Oku","elite","Wilder","Warrior","tank","Tank","Control",false
+134,"WindSM","Thane","legendary","Lightbearer","Ranger","archer","Burst Damage","Buff",true
+135,"Hidan","Vyloris","elite","Hypogean","Mage","magician","Burst Damage","Debuff",false
+136,"Sonia","Sonja","elite","Lightbearer","Ranger","archer","Buff","Tank",false
+137,"OrcMaster","Anasta","elite","Mauler","Warrior","tank","Continuous Damage","Control",false
+138,"Karen","Kalene","elite","Graveborn","Mage","magician","Continuous Damage","Control",false
+139,"SLK","Brutus","legendary","Mauler","Warrior","tank","Continuous Damage","Buff",true
+140,"JOA","Joan of Arc","elite","Dimensional","Warrior","tank","Buff","Heal",false
+141,"Alen","Eorin","elite","Wilder","Ranger","archer","Burst Damage","Assassin",false
+142,"Patronus","Tarnos","elite","Celestial","Warrior","tank","Continuous Damage","Control",false
+143,"WNT","Solise","legendary","Wilder","Mage","magician","Heal","Buff",true
+144,"GOR","Geralt","elite","Dimensional","Ranger","archer","Continuous Damage","Control",false
+145,"YNF","Yennefer","elite","Dimensional","Mage","magician","Buff","Control",false
+146,"Chimera","Canisa & Ruke","elite","Hypogean","Warrior","tank","Tank","Control",false
+147,"Flora","Nevanthi","elite","Wilder","Mage","magician","Heal","Buff",false
+148,"SBD","Baden","legendary","Graveborn","Warrior","tank","Continuous Damage","Control",true
+149,"CurseCarrier","Salaki","elite","Mauler","Mage","magician","Buff","Debuff",false
+150,"Bishop","Palmer","elite","Lightbearer","Mage","magician","Buff","Heal",false
+151,"Mars","Veithael","elite","Celestial","Ranger","archer","Tank","Continuous Damage",false
+152,"HML","Mulan","elite","Dimensional","Ranger","archer","Continuous Damage","Control",false
+153,"HFP","Belinda","legendary","Lightbearer","Mage","magician","Burst Damage","Continuous Damage",true
+154,"TSL","Tamrus","elite","Wilder","Ranger","archer","Control","Buff",false
+155,"DOA","Olgath","elite","Hypogean","Ranger","archer","Continuous Damage","AoE",false
+156,"Adwin","Edwin","elite","Graveborn","Warrior","tank","Tank","Debuff",false
+157,"BSparrow","Maetria","legendary","Hypogean","Mage","magician","Continuous Damage","Debuff",true
+158,"Slacker","Crassio","elite","Mauler","Ranger","archer","Continuous Damage","Assassin",false
+159,"EMT","Emilia","elite","Dimensional","Mage","magician","Control","Buff",false
+160,"RM","Rem","elite","Dimensional","Warrior","tank","Continuous Damage","Continuous Damage",false
+161,"DivineBlade","Athalia","legendary","Celestial","Ranger","archer","Burst Damage","Assassin",true
+162,"HammerMan","Ginneas","elite","Lightbearer","Warrior","tank","Tank","Control",false
+163,"Summer","Daemia","elite","Celestial","Mage","magician","Continuous Damage","Debuff",false
+164,"SO","Trishea","elite","Wilder","Mage","magician","Continuous Damage","Burst Damage",false
+165,"SQ","Safiya","legendary","Mauler","Mage","magician","Buff","AoE",true
+166,"BC","Ivan","elite","Graveborn","Mage","magician","Buff","Control",false
+167,"SWQ","Naroko","elite","Mauler","Warrior","tank","Heal","Buff",false
+168,"Lucilla","Lucilla","elite","Hypogean","Warrior","tank","Debuff","Buff",false
+169,"Liberta","Liberta","elite","Celestial","Mage","magician","Continuous Damage","Heal",false
+170,"AstroPOM","Lyca","legendary","Wilder","Ranger","archer","Continuous Damage","Buff",true
+171,"Admiral","Jerome","elite","Lightbearer","Warrior","tank","Buff","Tank",false
+172,"Robin","Robin Hood","elite","Dimensional","Ranger","archer","Debuff","Continuous Damage",false
+173,"Calypso","Shemira","legendary","Graveborn","Mage","magician","Tank","Debuff",true
+174,"Ringer","Lady Simona","elite","Graveborn","Mage","magician","Control","Debuff",false
+175,"BassD","Lavatune","elite","Hypogean","Mage","magician","Buff","Control",false
+176,"TopMaster","Vika","elite","Mauler","Mage","magician","Continuous Damage","Control",false
+177,"Ruler","Gavus","legendary","Celestial","Mage","magician","Continuous Damage","Buff",true
+178,"Disorder","Eugene","legendary","Hypogean","Mage","magician","AoE","Continuous Damage",true
+179,"DHT","Atheus","elite","Wilder","Mage","magician","Tank","Control",false
+180,"Mess","Malkrie","elite","Celestial","Ranger","archer","Continuous Damage","Control",false
+181,"Paladin","Lucius","legendary","Lightbearer","Warrior","tank","Tank","Continuous Damage",true
+182,"TangoD","Adrian & Elyse","elite","Lightbearer","Ranger","archer","Control","Buff",false
+183,"TombKeeper","Bronn","elite","Graveborn","Warrior","tank","Buff","Continuous Damage",false
+184,"Purga","Kalthin","elite","Hypogean","Warrior","tank","Continuous Damage","Debuff",false
+185,"DFiery","Hildwin","legendary","Draconis","Mage","magician","Continuous Damage","Control",false
+186,"DLongbow","Gwyneth","legendary","Draconis","Warrior","tank","Continuous Damage","Debuff",false
+187,"DPop","Nyla","elite","Draconis","Mage","magician","Control","Continuous Damage",false
+188,"DVain","Pulina","elite","Draconis","Ranger","archer","Continuous Damage","Burst Damage",false
+189,"DHerald","Cassius","elite","Draconis","Mage","magician","Tank","Control",false
+190,"DCute","Gourgue","rare","Draconis","Mage","magician","Buff","Burst Damage",false
+191,"Dpower","Draconis Warrior","common","Draconis","Warrior","tank","Tank","Burst Damage",false
+192,"Dbow","Draconis Archer","common","Draconis","Ranger","archer","Continuous Damage","Buff",false
+193,"ScorpionLady","Villanelle","elite","Mauler","Ranger","archer","Debuff","Control",false
+194,"PinkWitch","Shuna","elite","Dimensional","Mage","magician","Buff","Control",false
+195,"CuteLord","Rimuru","elite","Dimensional","Mage","magician","Burst Damage","Buff",false
+196,"SLeopard","Antandra","legendary","Mauler","Ranger","archer","Continuous Damage","Debuff",true
+197,"DEnforcer","Melion","elite","Draconis","Mage","magician","Control","Buff",false
+198,"Shamus","Raoul","elite","Lightbearer","Mage","magician","Debuff","Burst Damage",false
+199,"DLoong","Lan","legendary","Draconis","Mage","magician","Buff","Control",false
+200,"Snail","Misha","elite","Wilder","Mage","magician","Control","Debuff",false
+201,"CrySword","Eironn","legendary","Wilder","Ranger","archer","Continuous Damage","Control",true
+202,"AutumnG","Aurelia","elite","Celestial","Mage","magician","Buff","Continuous Damage",false
+203,"DConcierge","Kregor","elite","Draconis","Warrior","tank","Buff","Control",false
+204,"SoulScythe","Randle","elite","Graveborn","Ranger","archer","Continuous Damage","Buff",false
+205,"SNKStorm","Thoran","legendary","Graveborn","Warrior","tank","Tank","Burst Damage",true
+206,"Geezer","Knox","elite","Hypogean","Mage","magician","Debuff","Continuous Damage",false
+207,"DSky","Skylan","legendary","Draconis","Ranger","archer","Continuous Damage","Debuff",false
+208,"Orcook","Gorren","elite","Mauler","Ranger","archer","Buff","Burst Damage",false
+209,"Zorah","Zohra","legendary","Celestial","Mage","magician","Continuous Damage","Control",true
+210,"BloodS","Shalltear Bloodfallen","elite","Dimensional","Warrior","tank","Continuous Damage","Control",false
+211,"DTornado","Sion","elite","Draconis","Ranger","archer","Continuous Damage","Debuff",false
+212,"Dsun","Haelia","legendary","Draconis","Warrior","tank","Burst Damage","Buff",false
+213,"Daughter","Mira","elite","Graveborn","Mage","magician","Burst Damage","Control",false
+1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
+1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
+1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false
+1006,"Goblin","Wrizz",,"Mauler","Warrior","tank",,,false
+1007,"SoulCalibur","Soren",,"Graveborn","Warrior","tank",,,false
+1008,"DevilImp","Fiend",,"Hypogean","Mage","magician",,,false
+1012,"DarkYeanling","Demonic Nemora",,"Hypogean","Mage","magician",,,false
+1014,"DwarfE","Dwarven Bombardier",,"Lightbearer","Ranger","archer",,,false
+1015,"DwarfS","Dwarven Pulverizer",,"Lightbearer","Warrior","tank",,,false
+1016,"BossDQ","Ice Shemira",,"Graveborn","Mage","magician",,,false
+1017,"BossYM","Burning Brute",,"Dimensional","Ranger","archer",,,false
+1022,"WBossOakSage","Arden",,"Wilder","Mage","magician",,,false
+1023,"BossDM","Azmonath",,"Hypogean","Mage","magician",,,false
+1024,"BossCthulhu","Gouldos",,"Hypogean","Mage","magician",,,false
+1025,"BossMystic","Idre",,"Graveborn","Mage","magician",,,false
+1031,"BossHGMN","Adrax",,"Dimensional","Mage","magician",,,false
+1032,"BossHGM","Adrax",,"Dimensional","Mage","magician",,,false
+1034,"BossBane","Ezizh",,"Dimensional","Mage","magician",,,false
+1044,"BossBA","The Balancer",,"Hypogean","Mage","magician",,,false
+1048,"BossROG","Arbiter of Chaos",,"Hypogean","Mage","magician",,,false
+1060,"BossPreyS","Oleus",,"Dimensional","Mage","magician",,,false
+1061,"BossPreyB","Oleus",,"Dimensional","Mage","magician",,,false
+1062,"GoblinFeast","Wrizz",,"Mauler","Warrior","tank",,,false
+1067,"BossDragonS","Dalax",,"Dimensional","Mage","magician",,,false
+1068,"BossDragonB","Dalax",,"Dimensional","Mage","magician",,,false
+1074,"BossWorm","Marsha",,"Dimensional","Mage","magician",,,false
+1075,"BossLionAct","Dune Destroyer",,"Dimensional","Mage","magician",,,false
+1083,"BossSBDAct","Swamp Corruptor",,"Dimensional","Mage","magician",,,false
+1092,"DarkCrow","Raven Whisperer",,"Hypogean","Mage","magician",,,false
+1098,"BossFireWorks","Fortune Firecrackers",,"Dimensional","Warrior","tank",,,false
+1099,"BossFStoneLion","Lioness Guard",,"Dimensional","Mage","magician",,,false
+1100,"BossMStoneLion","Lion Guard",,"Dimensional","Ranger","archer",,,false
+1105,"BossCrab","Clawlossus",,"Dimensional","Mage","magician",,,false
+1115,"BOSSMD","The Fire Daemon",,"Dimensional","Mage","magician",,,false
+1122,"BossBride","Duskwailer",,"Graveborn","Mage","magician",,,false
+1123,"BossNightmare","Mask Curator",,"Hypogean","Mage","magician",,,false
+1124,"BossDevilDog","Soul Hound",,"Dimensional","Mage","magician",,,false
+1125,"RBossDoll","Demonic Puppet",,"Hypogean","Mage","magician",,,false
+1127,"RBossIronMaiden","The Light Martyr",,"Hypogean","Mage","magician",,,false
+1128,"BossMoonkin","Sky Serpent",,"Dimensional","Mage","magician",,,false
+1138,"BossMirror","Mirror Demon",,"Hypogean","Mage","magician",,,false
+1139,"BossMirrorP","Mirror Demon",,"Hypogean","Mage","magician",,,false
+1141,"BossCannon","Raging Cannon",,"Hypogean","Mage","magician",,,false
+1148,"BossDharma","Morgana",,"Celestial","Mage","magician",,,false
+1149,"RBossHydra","Morass Diabolus",,"Hypogean","Mage","magician",,,false
+1150,"BossKondra","Conrad",,"Hypogean","Mage","magician",,,false
+1161,"BossBait","Darkness Rising",,"Dimensional","Mage","magician",,,false
+1163,"BossCannibal","Ossivorous Spore",,"Dimensional","Mage","magician",,,false
+1164,"BossStalker","Cruel Crow",,"Hypogean","Mage","magician",,,false
+1168,"BossDevilGoat","Asmogus",,"Hypogean","Mage","magician",,,false
+1173,"BossSoulLocker","Soulchain Knight",,"Dimensional","Mage","magician",,,false
+1174,"BossTree","Bloodvine Wraith",,"Hypogean","Mage","magician",,,false
+1175,"BossBlade","Wraith Reaver",,"Hypogean","Mage","magician",,,false
+1182,"BossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,,false
+1183,"BossConductor","Abyssal Maestro",,"Dimensional","Mage","magician",,,false
+1187,"BossDarkPlanet","Astral Devourer",,"Hypogean","Mage","magician",,,false
+1190,"BossDoubleJoker","Fractured Fool",,"Dimensional","Mage","magician",,,false
+1191,"RBossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,,false
+6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,,false
+6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,,false
+6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,,false
+6004,"Yeti","Polar Beast","elite","Dimensional","Warrior","tank",,,false
+6005,"Efreet","Fire Breather","elite","Dimensional","Warrior","tank",,,false
+6006,"SwordL","Blade Ridge","elite","Dimensional","Warrior","tank",,,false
+6007,"GLion","Winged Lion","elite","Dimensional","Warrior","tank",,,false
+6008,"ShieldL","Rock Crown Lizard","elite","Dimensional","Warrior","tank",,,false
+6009,"PLion","Feline Vesperio","elite","Dimensional","Warrior","tank",,,false
+6010,"PDeer","Bellbellow","elite","Dimensional","Warrior","tank",,,false
+6011,"TimeOwl","Flutterplume Owl","elite","Dimensional","Warrior","tank",,,false
+6012,"Auspi","Talismane","elite","Dimensional","Warrior","tank",,,false
+6013,"BFY","Phantasmoth","elite","Dimensional","Warrior","tank",,,false
+6014,"Sala","Savage Soufflé","elite","Dimensional","Warrior","tank",,,false
+6015,"Otter","Slumber Seal","elite","Dimensional","Warrior","tank",,,false
+6016,"ScarletFox","Fox Fatale","elite","Dimensional","Warrior","tank",,,false
+6017,"DSpider","Shroom Spooder","elite","Dimensional","Warrior","tank",,,false
+6018,"Vegelf","Radish Rotunda","elite","Dimensional","Warrior","tank",,,false
+6019,"Ailuro","Pandy Dumpty","elite","Dimensional","Warrior","tank",,,false
+6020,"Jellyfish","Ice Crown","elite","Dimensional","Warrior","tank",,,false
+6021,"CutyDragon","Aureus","elite","Dimensional","Warrior","tank",,,false
+6022,"Ibis","Pearlcrest Ibis","elite","Dimensional","Warrior","tank",,,false
+6023,"CandyGhost","Treatspector","elite","Dimensional","Warrior","tank",,,false
+6024,"FireSnake","Joyous Roamer","elite","Dimensional","Warrior","tank",,,false
