@@ -2911,6 +2911,20 @@
     "secondRole": "Control",
     "isAwakened": false
   },
+  "214": {
+    "id": 214,
+    "codeName": "EnvyD",
+    "names": {
+      "en": "Envydiel"
+    },
+    "rarity": "legendary",
+    "faction": "Hypogean",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff",
+    "isAwakened": true
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
