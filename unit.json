@@ -2925,6 +2925,20 @@
     "secondRole": "Debuff",
     "isAwakened": true
   },
+  "215": {
+    "id": 215,
+    "codeName": "Game",
+    "names": {
+      "en": "Lysander"
+    },
+    "rarity": "elite",
+    "faction": "Celestial",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Buff",
+    "secondRole": "Burst Damage",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
