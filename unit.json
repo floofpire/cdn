@@ -2939,6 +2939,20 @@
     "secondRole": "Burst Damage",
     "isAwakened": false
   },
+  "216": {
+    "id": 216,
+    "codeName": "Denchant",
+    "names": {
+      "en": "Velufira"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Debuff",
+    "secondRole": "Buff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -2998,7 +3012,7 @@
     "id": 1008,
     "codeName": "DevilImp",
     "names": {
-      "en": "Fiend"
+      "en": "Fledgling Fiends"
     },
     "faction": "Hypogean",
     "class": "Mage",

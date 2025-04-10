@@ -209,12 +209,13 @@
 213,"Daughter","Mira","elite","Graveborn","Mage","magician","Burst Damage","Control",false
 214,"EnvyD","Envydiel","legendary","Hypogean","Ranger","archer","Continuous Damage","Debuff",true
 215,"Game","Lysander","elite","Celestial","Ranger","archer","Buff","Burst Damage",false
+216,"Denchant","Velufira","elite","Draconis","Mage","magician","Debuff","Buff",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false
 1006,"Goblin","Wrizz",,"Mauler","Warrior","tank",,,false
 1007,"SoulCalibur","Soren",,"Graveborn","Warrior","tank",,,false
-1008,"DevilImp","Fiend",,"Hypogean","Mage","magician",,,false
+1008,"DevilImp","Fledgling Fiends",,"Hypogean","Mage","magician",,,false
 1012,"DarkYeanling","Demonic Nemora",,"Hypogean","Mage","magician",,,false
 1014,"DwarfE","Dwarven Bombardier",,"Lightbearer","Ranger","archer",,,false
 1015,"DwarfS","Dwarven Pulverizer",,"Lightbearer","Warrior","tank",,,false
