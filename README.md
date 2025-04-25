@@ -127,8 +127,8 @@ The assets have been upscaled by using [waifu2x](https://github.com/nihui/waifu2
 
 ## Stats
 <!-- stats-start -->
- - 2,085 unit icons
- - 2,679 unit icons by id
- - 257,079 framed unit icons
+ - 2,095 unit icons
+ - 2,689 unit icons by id
+ - 259,515 framed unit icons
  - 1,440 collection icons
 <!-- stats-end -->

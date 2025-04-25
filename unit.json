@@ -2953,6 +2953,34 @@
     "secondRole": "Buff",
     "isAwakened": false
   },
+  "217": {
+    "id": 217,
+    "codeName": "Marcille",
+    "names": {
+      "en": "Marcille"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff",
+    "isAwakened": false
+  },
+  "218": {
+    "id": 218,
+    "codeName": "Laios",
+    "names": {
+      "en": "Laios"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Control",
+    "secondRole": "Buff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3585,6 +3613,17 @@
     "codeName": "RBossWhisperPriest",
     "names": {
       "en": "Abyssal Murmur"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false
+  },
+  "1194": {
+    "id": 1194,
+    "codeName": "RBossMoonkin",
+    "names": {
+      "en": "Sky Serpent"
     },
     "faction": "Dimensional",
     "class": "Mage",

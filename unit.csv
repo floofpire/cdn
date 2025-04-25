@@ -210,6 +210,8 @@
 214,"EnvyD","Envydiel","legendary","Hypogean","Ranger","archer","Continuous Damage","Debuff",true
 215,"Game","Lysander","elite","Celestial","Ranger","archer","Buff","Burst Damage",false
 216,"Denchant","Velufira","elite","Draconis","Mage","magician","Debuff","Buff",false
+217,"Marcille","Marcille","elite","Dimensional","Mage","magician","Continuous Damage","Debuff",false
+218,"Laios","Laios","elite","Dimensional","Warrior","tank","Control","Buff",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false
@@ -268,6 +270,7 @@
 1187,"BossDarkPlanet","Astral Devourer",,"Hypogean","Mage","magician",,,false
 1190,"BossDoubleJoker","Fractured Fool",,"Dimensional","Mage","magician",,,false
 1191,"RBossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,,false
+1194,"RBossMoonkin","Sky Serpent",,"Dimensional","Mage","magician",,,false
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,,false
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,,false
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,,false
