@@ -270,6 +270,7 @@
 1187,"BossDarkPlanet","Astral Devourer",,"Hypogean","Mage","magician",,,false
 1190,"BossDoubleJoker","Fractured Fool",,"Dimensional","Mage","magician",,,false
 1191,"RBossWhisperPriest","Abyssal Murmur",,"Dimensional","Mage","magician",,,false
+1192,"BossIronsmith","Crimsonflame Forgemaster",,"Hypogean","Mage","magician",,,false
 1194,"RBossMoonkin","Sky Serpent",,"Dimensional","Mage","magician",,,false
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,,false
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,,false
@@ -295,3 +296,4 @@
 6022,"Ibis","Pearlcrest Ibis","elite","Dimensional","Warrior","tank",,,false
 6023,"CandyGhost","Treatspector","elite","Dimensional","Warrior","tank",,,false
 6024,"FireSnake","Joyous Roamer","elite","Dimensional","Warrior","tank",,,false
+6025,"Mimic","Trickery Chest","elite","Dimensional","Warrior","tank",,,false

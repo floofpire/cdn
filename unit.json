@@ -3619,6 +3619,17 @@
     "job": "magician",
     "isAwakened": false
   },
+  "1192": {
+    "id": 1192,
+    "codeName": "BossIronsmith",
+    "names": {
+      "en": "Crimsonflame Forgemaster"
+    },
+    "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false
+  },
   "1194": {
     "id": 1194,
     "codeName": "RBossMoonkin",
@@ -3911,6 +3922,18 @@
     "codeName": "FireSnake",
     "names": {
       "en": "Joyous Roamer"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank",
+    "isAwakened": false
+  },
+  "6025": {
+    "id": 6025,
+    "codeName": "Mimic",
+    "names": {
+      "en": "Trickery Chest"
     },
     "rarity": "elite",
     "faction": "Dimensional",

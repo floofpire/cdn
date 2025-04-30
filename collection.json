@@ -78,5 +78,29 @@
     "names": {
       "en": "Luminous Flight"
     }
+  },
+  "11": {
+    "id": 11,
+    "class": "Warrior",
+    "codeName": "scimonster",
+    "names": {
+      "en": "Infused Mind Core"
+    }
+  },
+  "12": {
+    "id": 12,
+    "class": "Tank",
+    "codeName": "orcleader",
+    "names": {
+      "en": "Horn of Dominion"
+    }
+  },
+  "13": {
+    "id": 13,
+    "class": "Ranger",
+    "codeName": "swordmaster",
+    "names": {
+      "en": "Shadowflow Blade"
+    }
   }
 }
