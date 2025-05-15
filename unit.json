@@ -2981,6 +2981,20 @@
     "secondRole": "Buff",
     "isAwakened": false
   },
+  "219": {
+    "id": 219,
+    "codeName": "Docean",
+    "names": {
+      "en": "Leviathan"
+    },
+    "rarity": "legendary",
+    "faction": "Draconis",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Tank",
+    "secondRole": "Control",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3635,6 +3649,17 @@
     "codeName": "RBossMoonkin",
     "names": {
       "en": "Sky Serpent"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false
+  },
+  "1199": {
+    "id": 1199,
+    "codeName": "RBossDelusionLord",
+    "names": {
+      "en": "Nightmare Weaver"
     },
     "faction": "Dimensional",
     "class": "Mage",
