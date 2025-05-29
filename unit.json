@@ -2995,6 +2995,20 @@
     "secondRole": "Control",
     "isAwakened": false
   },
+  "220": {
+    "id": 220,
+    "codeName": "PirateQ",
+    "names": {
+      "en": "Alvida"
+    },
+    "rarity": "elite",
+    "faction": "Lightbearer",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Debuff",
+    "secondRole": "Burst Damage",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
