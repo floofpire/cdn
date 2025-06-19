@@ -3009,6 +3009,20 @@
     "secondRole": "Burst Damage",
     "isAwakened": false
   },
+  "221": {
+    "id": 221,
+    "codeName": "Sknight",
+    "names": {
+      "en": "Estrilda"
+    },
+    "rarity": "legendary",
+    "faction": "Lightbearer",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Tank",
+    "secondRole": "Continuous Damage",
+    "isAwakened": true
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
