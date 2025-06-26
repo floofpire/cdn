@@ -3023,6 +3023,20 @@
     "secondRole": "Continuous Damage",
     "isAwakened": true
   },
+  "222": {
+    "id": 222,
+    "codeName": "Dshadow",
+    "names": {
+      "en": "Umbriel"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Buff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
