@@ -216,6 +216,7 @@
 220,"PirateQ","Alvida","elite","Lightbearer","Warrior","tank","Debuff","Burst Damage",false
 221,"Sknight","Estrilda","legendary","Lightbearer","Warrior","tank","Tank","Continuous Damage",true
 222,"Dshadow","Umbriel","elite","Draconis","Ranger","archer","Continuous Damage","Buff",false
+223,"DevilSucker","Serenmira","elite","Hypogean","Mage","magician","Buff","Debuff",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false

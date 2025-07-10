@@ -3037,6 +3037,20 @@
     "secondRole": "Buff",
     "isAwakened": false
   },
+  "223": {
+    "id": 223,
+    "codeName": "DevilSucker",
+    "names": {
+      "en": "Serenmira"
+    },
+    "rarity": "elite",
+    "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Buff",
+    "secondRole": "Debuff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",

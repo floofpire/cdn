@@ -102,5 +102,21 @@
     "names": {
       "en": "Shadowflow Blade"
     }
+  },
+  "14": {
+    "id": 14,
+    "class": "Mage",
+    "codeName": "thor",
+    "names": {
+      "en": "Stormwrath's Lull"
+    }
+  },
+  "15": {
+    "id": 15,
+    "class": "Support",
+    "codeName": "nbh",
+    "names": {
+      "en": "Bounty Hunter's Decree"
+    }
   }
 }
