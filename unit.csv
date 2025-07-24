@@ -217,6 +217,8 @@
 221,"Sknight","Estrilda","legendary","Lightbearer","Warrior","tank","Tank","Continuous Damage",true
 222,"Dshadow","Umbriel","elite","Draconis","Ranger","archer","Continuous Damage","Buff",false
 223,"DevilSucker","Serenmira","elite","Hypogean","Mage","magician","Buff","Debuff",false
+224,"Darklord","Sung Jinwoo","elite","Dimensional","Ranger","archer","Burst Damage","Control",false
+225,"Lighthunter","Cha Hae-in","elite","Dimensional","Warrior","tank","Continuous Damage","Buff",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false

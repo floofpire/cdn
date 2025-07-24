@@ -3051,6 +3051,34 @@
     "secondRole": "Debuff",
     "isAwakened": false
   },
+  "224": {
+    "id": 224,
+    "codeName": "Darklord",
+    "names": {
+      "en": "Sung Jinwoo"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Burst Damage",
+    "secondRole": "Control",
+    "isAwakened": false
+  },
+  "225": {
+    "id": 225,
+    "codeName": "Lighthunter",
+    "names": {
+      "en": "Cha Hae-in"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Buff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
