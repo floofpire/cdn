@@ -219,6 +219,7 @@
 223,"DevilSucker","Serenmira","elite","Hypogean","Mage","magician","Buff","Debuff",false
 224,"Darklord","Sung Jinwoo","elite","Dimensional","Ranger","archer","Burst Damage","Control",false
 225,"Lighthunter","Cha Hae-in","elite","Dimensional","Warrior","tank","Continuous Damage","Buff",false
+226,"DGambling","Kaelon","legendary","Draconis","Ranger","archer","Continuous Damage","Buff",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false
@@ -280,6 +281,7 @@
 1192,"BossIronsmith","Crimsonflame Forgemaster",,"Hypogean","Mage","magician",,,false
 1194,"RBossMoonkin","Sky Serpent",,"Dimensional","Mage","magician",,,false
 1199,"RBossDelusionLord","Nightmare Weaver",,"Dimensional","Mage","magician",,,false
+1201,"RBossBellGuardian","Chimewarden",,"Dimensional","Mage","magician",,,false
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,,false
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,,false
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,,false
@@ -305,3 +307,4 @@
 6023,"CandyGhost","Treatspector","elite","Dimensional","Warrior","tank",,,false
 6024,"FireSnake","Joyous Roamer","elite","Dimensional","Warrior","tank",,,false
 6025,"Mimic","Trickery Chest","elite","Dimensional","Warrior","tank",,,false
+6026,"Tree","Thistlekin","elite","Dimensional","Warrior","tank",,,false
