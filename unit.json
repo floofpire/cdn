@@ -3093,6 +3093,20 @@
     "secondRole": "Buff",
     "isAwakened": false
   },
+  "227": {
+    "id": 227,
+    "codeName": "OrcAngler",
+    "names": {
+      "en": "Talimar"
+    },
+    "rarity": "elite",
+    "faction": "Mauler",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Buff",
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
