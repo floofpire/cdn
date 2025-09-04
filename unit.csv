@@ -221,6 +221,7 @@
 225,"Lighthunter","Cha Hae-in","elite","Dimensional","Warrior","tank","Continuous Damage","Buff",false
 226,"DGambling","Kaelon","legendary","Draconis","Ranger","archer","Continuous Damage","Buff",false
 227,"OrcAngler","Talimar","elite","Mauler","Mage","magician","Buff","Continuous Damage",false
+228,"DesertEagle","Skriath","legendary","Mauler","Mage","magician","Continuous Damage","Buff",true
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false
@@ -283,6 +284,7 @@
 1194,"RBossMoonkin","Sky Serpent",,"Dimensional","Mage","magician",,,false
 1199,"RBossDelusionLord","Nightmare Weaver",,"Dimensional","Mage","magician",,,false
 1201,"RBossBellGuardian","Chimewarden",,"Dimensional","Mage","magician",,,false
+1212,"RBossBirdGod","Blighted Seraph",,"Dimensional","Mage","magician",,,false
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,,false
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,,false
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,,false

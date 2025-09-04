@@ -3107,6 +3107,20 @@
     "secondRole": "Continuous Damage",
     "isAwakened": false
   },
+  "228": {
+    "id": 228,
+    "codeName": "DesertEagle",
+    "names": {
+      "en": "Skriath"
+    },
+    "rarity": "legendary",
+    "faction": "Mauler",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Buff",
+    "isAwakened": true
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3783,6 +3797,17 @@
     "codeName": "RBossBellGuardian",
     "names": {
       "en": "Chimewarden"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false
+  },
+  "1212": {
+    "id": 1212,
+    "codeName": "RBossBirdGod",
+    "names": {
+      "en": "Blighted Seraph"
     },
     "faction": "Dimensional",
     "class": "Mage",
