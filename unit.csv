@@ -222,6 +222,7 @@
 226,"DGambling","Kaelon","legendary","Draconis","Ranger","archer","Continuous Damage","Buff",false
 227,"OrcAngler","Talimar","elite","Mauler","Mage","magician","Buff","Continuous Damage",false
 228,"DesertEagle","Skriath","legendary","Mauler","Mage","magician","Continuous Damage","Buff",true
+229,"Beetle","Gorok","elite","Wilder","Warrior","tank","Continuous Damage","Buff",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false
@@ -311,3 +312,4 @@
 6024,"FireSnake","Joyous Roamer","elite","Dimensional","Warrior","tank",,,false
 6025,"Mimic","Trickery Chest","elite","Dimensional","Warrior","tank",,,false
 6026,"Tree","Thistlekin","elite","Dimensional","Warrior","tank",,,false
+6027,"Grimhoof","Nightfall Pegasus","legendary","Dimensional","Warrior","tank",,,false
