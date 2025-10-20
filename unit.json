@@ -3135,6 +3135,34 @@
     "secondRole": "Buff",
     "isAwakened": false
   },
+  "230": {
+    "id": 230,
+    "codeName": "Selene",
+    "names": {
+      "en": "Selene"
+    },
+    "rarity": "elite",
+    "faction": "Celestial",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Burst Damage",
+    "secondRole": "Buff",
+    "isAwakened": false
+  },
+  "231": {
+    "id": 231,
+    "codeName": "Doutside",
+    "names": {
+      "en": "Begris"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Buff",
+    "secondRole": "Debuff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
