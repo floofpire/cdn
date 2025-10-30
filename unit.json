@@ -3163,6 +3163,20 @@
     "secondRole": "Debuff",
     "isAwakened": false
   },
+  "232": {
+    "id": 232,
+    "codeName": "Coffin",
+    "names": {
+      "en": "Fawkes"
+    },
+    "rarity": "legendary",
+    "faction": "Graveborn",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "AoE",
+    "isAwakened": true
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3850,6 +3864,17 @@
     "codeName": "RBossBirdGod",
     "names": {
       "en": "Blighted Seraph"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false
+  },
+  "1219": {
+    "id": 1219,
+    "codeName": "RBossTailor",
+    "names": {
+      "en": "Soulweaver"
     },
     "faction": "Dimensional",
     "class": "Mage",

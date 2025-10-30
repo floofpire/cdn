@@ -225,6 +225,7 @@
 229,"Beetle","Gorok","elite","Wilder","Warrior","tank","Continuous Damage","Buff",false
 230,"Selene","Selene","elite","Celestial","Mage","magician","Burst Damage","Buff",false
 231,"Doutside","Begris","elite","Draconis","Warrior","tank","Buff","Debuff",false
+232,"Coffin","Fawkes","legendary","Graveborn","Mage","magician","Continuous Damage","AoE",true
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false
@@ -288,6 +289,7 @@
 1199,"RBossDelusionLord","Nightmare Weaver",,"Dimensional","Mage","magician",,,false
 1201,"RBossBellGuardian","Chimewarden",,"Dimensional","Mage","magician",,,false
 1212,"RBossBirdGod","Blighted Seraph",,"Dimensional","Mage","magician",,,false
+1219,"RBossTailor","Soulweaver",,"Dimensional","Mage","magician",,,false
 6001,"BlackBall","Dreary Ball","rare","Dimensional","Warrior","tank",,,false
 6002,"WhiteBall","Tufty Ears","rare","Dimensional","Warrior","tank",,,false
 6003,"GreenBall","Grassy Orb","rare","Dimensional","Warrior","tank",,,false
