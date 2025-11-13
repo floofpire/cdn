@@ -3177,6 +3177,20 @@
     "secondRole": "AoE",
     "isAwakened": true
   },
+  "233": {
+    "id": 233,
+    "codeName": "GhostBoy",
+    "names": {
+      "en": "Lethos"
+    },
+    "rarity": "elite",
+    "faction": "Graveborn",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Debuff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
