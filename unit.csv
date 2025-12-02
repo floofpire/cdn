@@ -227,6 +227,7 @@
 231,"Doutside","Begris","elite","Draconis","Warrior","tank","Buff","Debuff",false
 232,"Coffin","Fawkes","legendary","Graveborn","Mage","magician","Continuous Damage","AoE",true
 233,"GhostBoy","Lethos","elite","Graveborn","Ranger","archer","Continuous Damage","Debuff",false
+234,"Dhot","Elthara","legendary","Draconis","Mage","magician","Continuous Damage","Control",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false

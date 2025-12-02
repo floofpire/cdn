@@ -3191,6 +3191,20 @@
     "secondRole": "Debuff",
     "isAwakened": false
   },
+  "234": {
+    "id": 234,
+    "codeName": "Dhot",
+    "names": {
+      "en": "Elthara"
+    },
+    "rarity": "legendary",
+    "faction": "Draconis",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Control",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
