@@ -3205,6 +3205,20 @@
     "secondRole": "Control",
     "isAwakened": false
   },
+  "235": {
+    "id": 235,
+    "codeName": "Dtrade",
+    "names": {
+      "en": "Tavriel"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Buff",
+    "secondRole": "Debuff",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",

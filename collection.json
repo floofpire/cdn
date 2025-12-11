@@ -118,5 +118,21 @@
     "names": {
       "en": "Bounty Hunter's Decree"
     }
+  },
+  "16": {
+    "id": 16,
+    "class": "Warrior",
+    "codeName": "pudge",
+    "names": {
+      "en": "Scythe of Slaughter"
+    }
+  },
+  "17": {
+    "id": 17,
+    "class": "Tank",
+    "codeName": "sonia",
+    "names": {
+      "en": "Rose of Sin"
+    }
   }
 }
