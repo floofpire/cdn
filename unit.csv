@@ -229,6 +229,8 @@
 233,"GhostBoy","Lethos","elite","Graveborn","Ranger","archer","Continuous Damage","Debuff",false
 234,"Dhot","Elthara","legendary","Draconis","Mage","magician","Continuous Damage","Control",false
 235,"Dtrade","Tavriel","elite","Draconis","Mage","magician","Buff","Debuff",false
+236,"Opman","Saitama","elite","Dimensional","Warrior","tank","Continuous Damage","Control",false
+237,"Gtornado","Terrible Tornado","elite","Dimensional","Mage","magician","Buff","Burst Damage",false
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false

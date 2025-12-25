@@ -124,7 +124,7 @@
     "class": "Warrior",
     "codeName": "pudge",
     "names": {
-      "en": "Scythe of Slaughter"
+      "en": "Reaper's Talon"
     }
   },
   "17": {
@@ -132,7 +132,7 @@
     "class": "Tank",
     "codeName": "sonia",
     "names": {
-      "en": "Rose of Sin"
+      "en": "Sinner's Rose"
     }
   }
 }
