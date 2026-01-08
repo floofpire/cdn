@@ -4274,5 +4274,17 @@
     "class": "Warrior",
     "job": "tank",
     "isAwakened": false
+  },
+  "6028": {
+    "id": 6028,
+    "codeName": "CarrotRabbit",
+    "names": {
+      "en": "Count Snickerfang"
+    },
+    "rarity": "legendary",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank",
+    "isAwakened": false
   }
 }
