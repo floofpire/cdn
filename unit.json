@@ -3247,6 +3247,34 @@
     "secondRole": "Burst Damage",
     "isAwakened": false
   },
+  "238": {
+    "id": 238,
+    "codeName": "Pippa",
+    "names": {
+      "en": "Pippa"
+    },
+    "rarity": "legendary",
+    "faction": "Wilder",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Burst Damage",
+    "secondRole": "Control",
+    "isAwakened": true
+  },
+  "239": {
+    "id": 239,
+    "codeName": "Flysquirrel",
+    "names": {
+      "en": "Icariel"
+    },
+    "rarity": "elite",
+    "faction": "Wilder",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Buff",
+    "secondRole": "Continuous Damage",
+    "isAwakened": false
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -3945,6 +3973,17 @@
     "codeName": "RBossTailor",
     "names": {
       "en": "Soulweaver"
+    },
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false
+  },
+  "1227": {
+    "id": 1227,
+    "codeName": "BossTwofacedDevil",
+    "names": {
+      "en": "Dual-Mantle"
     },
     "faction": "Dimensional",
     "class": "Mage",
