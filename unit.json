@@ -11,7 +11,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "2": {
     "id": 2,
@@ -25,7 +26,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "3": {
     "id": 3,
@@ -39,7 +41,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "4": {
     "id": 4,
@@ -53,7 +56,13 @@
     "job": "tank",
     "mainRole": "Burst Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 401,
+        "name": "Dusk Roamer"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -67,7 +76,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6": {
     "id": 6,
@@ -81,7 +91,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "7": {
     "id": 7,
@@ -95,11 +106,12 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "8": {
     "id": 8,
-    "codeName": "newNEC",
+    "codeName": "NEC",
     "names": {
       "en": "Niru"
     },
@@ -109,7 +121,13 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 801,
+        "name": "Winter Reaper"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -123,7 +141,21 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 901,
+        "name": "Lone Guardian"
+      },
+      {
+        "id": 902,
+        "name": "Blazefury"
+      },
+      {
+        "id": 903,
+        "name": "Mighty Guardian"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -137,7 +169,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "11": {
     "id": 11,
@@ -151,7 +184,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "12": {
     "id": 12,
@@ -165,7 +199,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "13": {
     "id": 13,
@@ -179,7 +214,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "14": {
     "id": 14,
@@ -193,7 +229,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "15": {
     "id": 15,
@@ -207,7 +244,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "16": {
     "id": 16,
@@ -221,7 +259,13 @@
     "job": "archer",
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 1601,
+        "name": "The Glade Keeper"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -235,7 +279,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "18": {
     "id": 18,
@@ -249,7 +294,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "19": {
     "id": 19,
@@ -263,7 +309,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "20": {
     "id": 20,
@@ -277,7 +324,13 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 2001,
+        "name": "Summer Belle"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -291,7 +344,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "22": {
     "id": 22,
@@ -305,7 +359,8 @@
     "job": "tank",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "23": {
     "id": 23,
@@ -319,7 +374,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "24": {
     "id": 24,
@@ -333,7 +389,8 @@
     "job": "archer",
     "mainRole": "Tank",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "25": {
     "id": 25,
@@ -347,7 +404,17 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 2501,
+        "name": "The Loyal Protector"
+      },
+      {
+        "id": 2502,
+        "name": "Hellforged Shackles"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -361,7 +428,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "27": {
     "id": 27,
@@ -375,7 +443,13 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 2701,
+        "name": "Frozen Enchantress"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -389,7 +463,17 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 2801,
+        "name": "The Spring Bloom"
+      },
+      {
+        "id": 2802,
+        "name": "Nocturnal Embrace"
+      }
+    ]
   },
   "29": {
     "id": 29,
@@ -403,7 +487,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "30": {
     "id": 30,
@@ -417,7 +502,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "31": {
     "id": 31,
@@ -431,7 +517,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "32": {
     "id": 32,
@@ -445,7 +532,13 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 3201,
+        "name": "Treacherous Tyrant"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -459,7 +552,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Assassin",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "34": {
     "id": 34,
@@ -473,7 +567,13 @@
     "job": "archer",
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 3401,
+        "name": "Echo Blossoms"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -487,7 +587,8 @@
     "job": "archer",
     "mainRole": "AoE",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "36": {
     "id": 36,
@@ -501,7 +602,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "37": {
     "id": 37,
@@ -515,7 +617,8 @@
     "job": "archer",
     "mainRole": "Control",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "38": {
     "id": 38,
@@ -529,7 +632,13 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 3801,
+        "name": "Bake Boss"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -543,7 +652,13 @@
     "job": "tank",
     "mainRole": "Assassin",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 3901,
+        "name": "Mad Hatter"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -557,7 +672,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "42": {
     "id": 42,
@@ -571,7 +687,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "43": {
     "id": 43,
@@ -585,7 +702,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "44": {
     "id": 44,
@@ -599,7 +717,13 @@
     "job": "tank",
     "mainRole": "Heal",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 4401,
+        "name": "The Mariner"
+      }
+    ]
   },
   "45": {
     "id": 45,
@@ -613,7 +737,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "46": {
     "id": 46,
@@ -627,7 +752,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "47": {
     "id": 47,
@@ -641,7 +767,13 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 4701,
+        "name": "Summer Moon"
+      }
+    ]
   },
   "48": {
     "id": 48,
@@ -655,7 +787,13 @@
     "job": "archer",
     "mainRole": "AoE",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 4801,
+        "name": "Maplefrost Edge"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -669,7 +807,13 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 4901,
+        "name": "The Star of Rayne"
+      }
+    ]
   },
   "50": {
     "id": 50,
@@ -683,7 +827,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "51": {
     "id": 51,
@@ -697,7 +842,13 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 5101,
+        "name": "Spring Glee"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -711,7 +862,13 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 5201,
+        "name": "True Baller"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -725,7 +882,13 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 5401,
+        "name": "Wintry Blaze "
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -739,7 +902,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "56": {
     "id": 56,
@@ -753,7 +917,8 @@
     "job": "tank",
     "mainRole": "Debuff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "57": {
     "id": 57,
@@ -767,7 +932,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "58": {
     "id": 58,
@@ -781,7 +947,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "59": {
     "id": 59,
@@ -795,7 +962,13 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 5901,
+        "name": "Summer's Desire"
+      }
+    ]
   },
   "60": {
     "id": 60,
@@ -809,7 +982,13 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 6001,
+        "name": "The Musical Rose"
+      }
+    ]
   },
   "61": {
     "id": 61,
@@ -823,7 +1002,17 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 6101,
+        "name": "Lost Dreams"
+      },
+      {
+        "id": 6102,
+        "name": "Glasswork Dream"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -837,7 +1026,13 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 6201,
+        "name": "Tango D'Anima"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -851,7 +1046,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "64": {
     "id": 64,
@@ -865,7 +1061,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "65": {
     "id": 65,
@@ -879,7 +1076,13 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 6501,
+        "name": "Soul Singer"
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -893,7 +1096,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "67": {
     "id": 67,
@@ -907,7 +1111,13 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 6701,
+        "name": "Silverscale Splendor"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -921,7 +1131,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "69": {
     "id": 69,
@@ -935,7 +1146,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "70": {
     "id": 70,
@@ -949,7 +1161,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "71": {
     "id": 71,
@@ -963,7 +1176,13 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 7101,
+        "name": "Pop Prodigy"
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -977,7 +1196,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "73": {
     "id": 73,
@@ -991,7 +1211,13 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 7301,
+        "name": "Phoenix's Vow"
+      }
+    ]
   },
   "74": {
     "id": 74,
@@ -1005,7 +1231,13 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 7401,
+        "name": "Winter Explorer"
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -1019,7 +1251,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Assassin",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "76": {
     "id": 76,
@@ -1033,7 +1266,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "77": {
     "id": 77,
@@ -1047,7 +1281,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Assassin",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "78": {
     "id": 78,
@@ -1061,7 +1296,13 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 7801,
+        "name": "King's Break"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -1075,7 +1316,13 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 8001,
+        "name": "Bountiful Bolero"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -1089,7 +1336,13 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 8301,
+        "name": "The Kingpin"
+      }
+    ]
   },
   "84": {
     "id": 84,
@@ -1103,7 +1356,13 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 8401,
+        "name": "Lord of the Mountains"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -1117,7 +1376,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "86": {
     "id": 86,
@@ -1131,7 +1391,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "87": {
     "id": 87,
@@ -1145,7 +1406,8 @@
     "job": "tank",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "88": {
     "id": 88,
@@ -1159,7 +1421,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "89": {
     "id": 89,
@@ -1173,7 +1436,13 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 8901,
+        "name": "The Sweet Prancer"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -1187,7 +1456,13 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 9001,
+        "name": "The Glacial Child"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -1201,7 +1476,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "92": {
     "id": 92,
@@ -1215,7 +1491,8 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "93": {
     "id": 93,
@@ -1229,7 +1506,13 @@
     "job": "archer",
     "mainRole": "Assassin",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 9301,
+        "name": "The Resplendent Dancer"
+      }
+    ]
   },
   "94": {
     "id": 94,
@@ -1243,7 +1526,13 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 9401,
+        "name": "Candlelit Shadow"
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -1257,7 +1546,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Assassin",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "96": {
     "id": 96,
@@ -1271,7 +1561,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "97": {
     "id": 97,
@@ -1285,7 +1576,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "98": {
     "id": 98,
@@ -1299,7 +1591,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "99": {
     "id": 99,
@@ -1313,7 +1606,13 @@
     "job": "archer",
     "mainRole": "Heal",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 9901,
+        "name": "Raven Eclipse"
+      }
+    ]
   },
   "100": {
     "id": 100,
@@ -1327,7 +1626,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "101": {
     "id": 101,
@@ -1341,7 +1641,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "102": {
     "id": 102,
@@ -1355,7 +1656,13 @@
     "job": "archer",
     "mainRole": "Debuff",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 10201,
+        "name": "Phantom's Embrace"
+      }
+    ]
   },
   "103": {
     "id": 103,
@@ -1369,7 +1676,13 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 10301,
+        "name": "Screaming Notes"
+      }
+    ]
   },
   "104": {
     "id": 104,
@@ -1383,7 +1696,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "105": {
     "id": 105,
@@ -1397,7 +1711,8 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "106": {
     "id": 106,
@@ -1411,7 +1726,13 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 10601,
+        "name": "Naughty Sailor"
+      }
+    ]
   },
   "107": {
     "id": 107,
@@ -1425,7 +1746,13 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 10701,
+        "name": "Unfettered Travels"
+      }
+    ]
   },
   "108": {
     "id": 108,
@@ -1439,7 +1766,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "109": {
     "id": 109,
@@ -1453,7 +1781,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "110": {
     "id": 110,
@@ -1467,7 +1796,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "111": {
     "id": 111,
@@ -1481,7 +1811,8 @@
     "job": "magician",
     "mainRole": "Debuff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "112": {
     "id": 112,
@@ -1495,7 +1826,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "113": {
     "id": 113,
@@ -1509,7 +1841,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "114": {
     "id": 114,
@@ -1523,7 +1856,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "115": {
     "id": 115,
@@ -1537,7 +1871,13 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 11501,
+        "name": "Captain Claw"
+      }
+    ]
   },
   "116": {
     "id": 116,
@@ -1551,7 +1891,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "117": {
     "id": 117,
@@ -1565,7 +1906,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "118": {
     "id": 118,
@@ -1579,7 +1921,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "119": {
     "id": 119,
@@ -1593,7 +1936,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "120": {
     "id": 120,
@@ -1607,7 +1951,13 @@
     "job": "tank",
     "mainRole": "Control",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 12001,
+        "name": "Polar Predator"
+      }
+    ]
   },
   "121": {
     "id": 121,
@@ -1621,7 +1971,13 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 12101,
+        "name": "The Puppet Master"
+      }
+    ]
   },
   "122": {
     "id": 122,
@@ -1635,7 +1991,8 @@
     "job": "archer",
     "mainRole": "Control",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "123": {
     "id": 123,
@@ -1649,7 +2006,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "124": {
     "id": 124,
@@ -1663,7 +2021,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Heal",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "125": {
     "id": 125,
@@ -1677,7 +2036,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "126": {
     "id": 126,
@@ -1691,7 +2051,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "127": {
     "id": 127,
@@ -1705,7 +2066,13 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 12701,
+        "name": "Dancing Waves"
+      }
+    ]
   },
   "128": {
     "id": 128,
@@ -1719,7 +2086,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "129": {
     "id": 129,
@@ -1733,7 +2101,8 @@
     "job": "archer",
     "mainRole": "Debuff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "130": {
     "id": 130,
@@ -1747,7 +2116,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "131": {
     "id": 131,
@@ -1761,7 +2131,8 @@
     "job": "archer",
     "mainRole": "Buff",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "132": {
     "id": 132,
@@ -1775,7 +2146,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "133": {
     "id": 133,
@@ -1789,7 +2161,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "134": {
     "id": 134,
@@ -1803,7 +2176,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Buff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "135": {
     "id": 135,
@@ -1817,7 +2191,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "136": {
     "id": 136,
@@ -1831,7 +2206,8 @@
     "job": "archer",
     "mainRole": "Buff",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "137": {
     "id": 137,
@@ -1845,7 +2221,13 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 13701,
+        "name": "Will of Gold"
+      }
+    ]
   },
   "138": {
     "id": 138,
@@ -1859,7 +2241,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "139": {
     "id": 139,
@@ -1873,7 +2256,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "140": {
     "id": 140,
@@ -1887,7 +2271,8 @@
     "job": "tank",
     "mainRole": "Buff",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "141": {
     "id": 141,
@@ -1901,7 +2286,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Assassin",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "142": {
     "id": 142,
@@ -1915,7 +2301,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "143": {
     "id": 143,
@@ -1929,7 +2316,8 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Buff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "144": {
     "id": 144,
@@ -1943,7 +2331,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "145": {
     "id": 145,
@@ -1957,7 +2346,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "146": {
     "id": 146,
@@ -1971,7 +2361,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "147": {
     "id": 147,
@@ -1985,7 +2376,13 @@
     "job": "magician",
     "mainRole": "Heal",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 14701,
+        "name": "Lazy Afternoon"
+      }
+    ]
   },
   "148": {
     "id": 148,
@@ -1999,7 +2396,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "149": {
     "id": 149,
@@ -2013,7 +2411,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "150": {
     "id": 150,
@@ -2027,7 +2426,13 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 15001,
+        "name": "Glory of Faith"
+      }
+    ]
   },
   "151": {
     "id": 151,
@@ -2041,7 +2446,13 @@
     "job": "archer",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 15101,
+        "name": "Fearless Sword"
+      }
+    ]
   },
   "152": {
     "id": 152,
@@ -2055,7 +2466,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "153": {
     "id": 153,
@@ -2069,7 +2481,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Continuous Damage",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "154": {
     "id": 154,
@@ -2083,7 +2496,8 @@
     "job": "archer",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "155": {
     "id": 155,
@@ -2097,7 +2511,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "156": {
     "id": 156,
@@ -2111,7 +2526,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "157": {
     "id": 157,
@@ -2125,7 +2541,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "158": {
     "id": 158,
@@ -2139,7 +2556,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Assassin",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "159": {
     "id": 159,
@@ -2153,7 +2571,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "160": {
     "id": 160,
@@ -2167,7 +2586,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "161": {
     "id": 161,
@@ -2181,7 +2601,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Assassin",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "162": {
     "id": 162,
@@ -2195,7 +2616,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "163": {
     "id": 163,
@@ -2209,7 +2631,17 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 16301,
+        "name": "Dragon's Howl"
+      },
+      {
+        "id": 16302,
+        "name": "Scorching Solstice"
+      }
+    ]
   },
   "164": {
     "id": 164,
@@ -2223,7 +2655,13 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 16401,
+        "name": "Eye of Fate"
+      }
+    ]
   },
   "165": {
     "id": 165,
@@ -2237,7 +2675,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "AoE",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "166": {
     "id": 166,
@@ -2251,7 +2690,13 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 16601,
+        "name": "Ashen Revenant"
+      }
+    ]
   },
   "167": {
     "id": 167,
@@ -2265,7 +2710,8 @@
     "job": "tank",
     "mainRole": "Heal",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "168": {
     "id": 168,
@@ -2279,7 +2725,13 @@
     "job": "tank",
     "mainRole": "Debuff",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 16801,
+        "name": "Frost Fairy"
+      }
+    ]
   },
   "169": {
     "id": 169,
@@ -2293,7 +2745,13 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Heal",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 16901,
+        "name": "Radiant Blessings"
+      }
+    ]
   },
   "170": {
     "id": 170,
@@ -2307,7 +2765,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "171": {
     "id": 171,
@@ -2321,7 +2780,13 @@
     "job": "tank",
     "mainRole": "Buff",
     "secondRole": "Tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 17101,
+        "name": "Savoir Faire"
+      }
+    ]
   },
   "172": {
     "id": 172,
@@ -2335,7 +2800,8 @@
     "job": "archer",
     "mainRole": "Debuff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "173": {
     "id": 173,
@@ -2349,7 +2815,8 @@
     "job": "magician",
     "mainRole": "Tank",
     "secondRole": "Debuff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "174": {
     "id": 174,
@@ -2363,7 +2830,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "175": {
     "id": 175,
@@ -2377,7 +2845,13 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 17501,
+        "name": "Solo Strummer"
+      }
+    ]
   },
   "176": {
     "id": 176,
@@ -2391,7 +2865,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "177": {
     "id": 177,
@@ -2405,7 +2880,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "178": {
     "id": 178,
@@ -2419,7 +2895,8 @@
     "job": "magician",
     "mainRole": "AoE",
     "secondRole": "Continuous Damage",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "179": {
     "id": 179,
@@ -2433,7 +2910,8 @@
     "job": "magician",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "180": {
     "id": 180,
@@ -2447,7 +2925,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "181": {
     "id": 181,
@@ -2461,7 +2940,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "182": {
     "id": 182,
@@ -2475,7 +2955,8 @@
     "job": "archer",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "183": {
     "id": 183,
@@ -2489,7 +2970,8 @@
     "job": "tank",
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "184": {
     "id": 184,
@@ -2503,7 +2985,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "185": {
     "id": 185,
@@ -2517,7 +3000,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "186": {
     "id": 186,
@@ -2531,7 +3015,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "187": {
     "id": 187,
@@ -2545,7 +3030,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "188": {
     "id": 188,
@@ -2559,7 +3045,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "189": {
     "id": 189,
@@ -2573,7 +3060,8 @@
     "job": "magician",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "190": {
     "id": 190,
@@ -2587,7 +3075,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "191": {
     "id": 191,
@@ -2601,7 +3090,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "192": {
     "id": 192,
@@ -2615,7 +3105,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "193": {
     "id": 193,
@@ -2629,7 +3120,8 @@
     "job": "archer",
     "mainRole": "Debuff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "194": {
     "id": 194,
@@ -2643,7 +3135,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "195": {
     "id": 195,
@@ -2657,7 +3150,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "196": {
     "id": 196,
@@ -2671,7 +3165,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "197": {
     "id": 197,
@@ -2685,7 +3180,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "198": {
     "id": 198,
@@ -2699,7 +3195,8 @@
     "job": "magician",
     "mainRole": "Debuff",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "199": {
     "id": 199,
@@ -2713,7 +3210,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "200": {
     "id": 200,
@@ -2727,7 +3225,8 @@
     "job": "magician",
     "mainRole": "Control",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "201": {
     "id": 201,
@@ -2741,7 +3240,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "202": {
     "id": 202,
@@ -2755,7 +3255,13 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": [
+      {
+        "id": 20201,
+        "name": "Fantasia Blossoms"
+      }
+    ]
   },
   "203": {
     "id": 203,
@@ -2769,7 +3275,8 @@
     "job": "tank",
     "mainRole": "Buff",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "204": {
     "id": 204,
@@ -2783,7 +3290,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "205": {
     "id": 205,
@@ -2797,7 +3305,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Burst Damage",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "206": {
     "id": 206,
@@ -2811,7 +3320,8 @@
     "job": "magician",
     "mainRole": "Debuff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "207": {
     "id": 207,
@@ -2825,7 +3335,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "208": {
     "id": 208,
@@ -2839,7 +3350,8 @@
     "job": "archer",
     "mainRole": "Buff",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "209": {
     "id": 209,
@@ -2853,7 +3365,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "210": {
     "id": 210,
@@ -2867,7 +3380,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "211": {
     "id": 211,
@@ -2881,7 +3395,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "212": {
     "id": 212,
@@ -2895,7 +3410,8 @@
     "job": "tank",
     "mainRole": "Burst Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "213": {
     "id": 213,
@@ -2909,7 +3425,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "214": {
     "id": 214,
@@ -2923,7 +3440,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "215": {
     "id": 215,
@@ -2937,7 +3455,8 @@
     "job": "archer",
     "mainRole": "Buff",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "216": {
     "id": 216,
@@ -2951,7 +3470,8 @@
     "job": "magician",
     "mainRole": "Debuff",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "217": {
     "id": 217,
@@ -2965,7 +3485,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "218": {
     "id": 218,
@@ -2979,7 +3500,8 @@
     "job": "tank",
     "mainRole": "Control",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "219": {
     "id": 219,
@@ -2993,7 +3515,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "220": {
     "id": 220,
@@ -3007,7 +3530,8 @@
     "job": "tank",
     "mainRole": "Debuff",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "221": {
     "id": 221,
@@ -3021,7 +3545,8 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Continuous Damage",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "222": {
     "id": 222,
@@ -3035,7 +3560,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "223": {
     "id": 223,
@@ -3049,7 +3575,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "224": {
     "id": 224,
@@ -3063,7 +3590,8 @@
     "job": "archer",
     "mainRole": "Burst Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "225": {
     "id": 225,
@@ -3077,7 +3605,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "226": {
     "id": 226,
@@ -3091,7 +3620,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "227": {
     "id": 227,
@@ -3105,7 +3635,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "228": {
     "id": 228,
@@ -3119,7 +3650,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "229": {
     "id": 229,
@@ -3133,7 +3665,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "230": {
     "id": 230,
@@ -3147,7 +3680,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Buff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "231": {
     "id": 231,
@@ -3161,7 +3695,8 @@
     "job": "tank",
     "mainRole": "Buff",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "232": {
     "id": 232,
@@ -3175,7 +3710,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "AoE",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "233": {
     "id": 233,
@@ -3189,7 +3725,8 @@
     "job": "archer",
     "mainRole": "Continuous Damage",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "234": {
     "id": 234,
@@ -3203,7 +3740,8 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "235": {
     "id": 235,
@@ -3217,7 +3755,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Debuff",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "236": {
     "id": 236,
@@ -3231,7 +3770,8 @@
     "job": "tank",
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "237": {
     "id": 237,
@@ -3245,7 +3785,8 @@
     "job": "magician",
     "mainRole": "Buff",
     "secondRole": "Burst Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "238": {
     "id": 238,
@@ -3259,7 +3800,8 @@
     "job": "magician",
     "mainRole": "Burst Damage",
     "secondRole": "Control",
-    "isAwakened": true
+    "isAwakened": true,
+    "skins": []
   },
   "239": {
     "id": 239,
@@ -3273,7 +3815,23 @@
     "job": "archer",
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
+  },
+  "240": {
+    "id": 240,
+    "codeName": "Dshift",
+    "names": {
+      "en": "Odysseus"
+    },
+    "rarity": "legendary",
+    "faction": "Draconis",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Tank",
+    "secondRole": "Control",
+    "isAwakened": false,
+    "skins": []
   },
   "1003": {
     "id": 1003,
@@ -3284,7 +3842,8 @@
     "faction": "Hypogean",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1004": {
     "id": 1004,
@@ -3295,7 +3854,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1005": {
     "id": 1005,
@@ -3306,7 +3866,8 @@
     "faction": "Hypogean",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1006": {
     "id": 1006,
@@ -3317,7 +3878,8 @@
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1007": {
     "id": 1007,
@@ -3328,7 +3890,8 @@
     "faction": "Graveborn",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1008": {
     "id": 1008,
@@ -3339,7 +3902,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1012": {
     "id": 1012,
@@ -3350,7 +3914,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1014": {
     "id": 1014,
@@ -3361,7 +3926,8 @@
     "faction": "Lightbearer",
     "class": "Ranger",
     "job": "archer",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1015": {
     "id": 1015,
@@ -3372,7 +3938,8 @@
     "faction": "Lightbearer",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1016": {
     "id": 1016,
@@ -3383,7 +3950,8 @@
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1017": {
     "id": 1017,
@@ -3394,7 +3962,8 @@
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1022": {
     "id": 1022,
@@ -3405,7 +3974,8 @@
     "faction": "Wilder",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1023": {
     "id": 1023,
@@ -3416,7 +3986,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1024": {
     "id": 1024,
@@ -3427,7 +3998,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1025": {
     "id": 1025,
@@ -3438,7 +4010,8 @@
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1031": {
     "id": 1031,
@@ -3449,7 +4022,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1032": {
     "id": 1032,
@@ -3460,7 +4034,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1034": {
     "id": 1034,
@@ -3471,7 +4046,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1044": {
     "id": 1044,
@@ -3482,7 +4058,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1048": {
     "id": 1048,
@@ -3493,7 +4070,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1060": {
     "id": 1060,
@@ -3504,7 +4082,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1061": {
     "id": 1061,
@@ -3515,7 +4094,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1062": {
     "id": 1062,
@@ -3526,7 +4106,8 @@
     "faction": "Mauler",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1067": {
     "id": 1067,
@@ -3537,7 +4118,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1068": {
     "id": 1068,
@@ -3548,7 +4130,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1074": {
     "id": 1074,
@@ -3559,7 +4142,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1075": {
     "id": 1075,
@@ -3570,7 +4154,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1083": {
     "id": 1083,
@@ -3581,7 +4166,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1092": {
     "id": 1092,
@@ -3592,7 +4178,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1098": {
     "id": 1098,
@@ -3603,7 +4190,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1099": {
     "id": 1099,
@@ -3614,7 +4202,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1100": {
     "id": 1100,
@@ -3625,7 +4214,8 @@
     "faction": "Dimensional",
     "class": "Ranger",
     "job": "archer",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1105": {
     "id": 1105,
@@ -3636,7 +4226,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1115": {
     "id": 1115,
@@ -3647,7 +4238,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1122": {
     "id": 1122,
@@ -3658,7 +4250,8 @@
     "faction": "Graveborn",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1123": {
     "id": 1123,
@@ -3669,7 +4262,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1124": {
     "id": 1124,
@@ -3680,7 +4274,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1125": {
     "id": 1125,
@@ -3691,7 +4286,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1127": {
     "id": 1127,
@@ -3702,7 +4298,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1128": {
     "id": 1128,
@@ -3713,7 +4310,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1138": {
     "id": 1138,
@@ -3724,7 +4322,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1139": {
     "id": 1139,
@@ -3735,7 +4334,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1141": {
     "id": 1141,
@@ -3746,7 +4346,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1148": {
     "id": 1148,
@@ -3757,7 +4358,8 @@
     "faction": "Celestial",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1149": {
     "id": 1149,
@@ -3768,7 +4370,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1150": {
     "id": 1150,
@@ -3779,7 +4382,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1161": {
     "id": 1161,
@@ -3790,7 +4394,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1163": {
     "id": 1163,
@@ -3801,7 +4406,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1164": {
     "id": 1164,
@@ -3812,7 +4418,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1168": {
     "id": 1168,
@@ -3823,7 +4430,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1173": {
     "id": 1173,
@@ -3834,7 +4442,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1174": {
     "id": 1174,
@@ -3845,7 +4454,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1175": {
     "id": 1175,
@@ -3856,7 +4466,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1182": {
     "id": 1182,
@@ -3867,7 +4478,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1183": {
     "id": 1183,
@@ -3878,7 +4490,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1187": {
     "id": 1187,
@@ -3889,7 +4502,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1190": {
     "id": 1190,
@@ -3900,7 +4514,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1191": {
     "id": 1191,
@@ -3911,7 +4526,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1192": {
     "id": 1192,
@@ -3922,7 +4538,8 @@
     "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1194": {
     "id": 1194,
@@ -3933,7 +4550,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1199": {
     "id": 1199,
@@ -3944,7 +4562,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1201": {
     "id": 1201,
@@ -3955,7 +4574,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1212": {
     "id": 1212,
@@ -3966,7 +4586,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1219": {
     "id": 1219,
@@ -3977,7 +4598,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "1227": {
     "id": 1227,
@@ -3988,7 +4610,8 @@
     "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6001": {
     "id": 6001,
@@ -4000,7 +4623,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6002": {
     "id": 6002,
@@ -4012,7 +4636,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6003": {
     "id": 6003,
@@ -4024,7 +4649,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6004": {
     "id": 6004,
@@ -4036,7 +4662,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6005": {
     "id": 6005,
@@ -4048,7 +4675,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6006": {
     "id": 6006,
@@ -4060,7 +4688,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6007": {
     "id": 6007,
@@ -4072,7 +4701,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6008": {
     "id": 6008,
@@ -4084,7 +4714,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6009": {
     "id": 6009,
@@ -4096,7 +4727,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6010": {
     "id": 6010,
@@ -4108,7 +4740,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6011": {
     "id": 6011,
@@ -4120,7 +4753,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6012": {
     "id": 6012,
@@ -4132,7 +4766,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6013": {
     "id": 6013,
@@ -4144,7 +4779,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6014": {
     "id": 6014,
@@ -4156,7 +4792,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6015": {
     "id": 6015,
@@ -4168,7 +4805,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6016": {
     "id": 6016,
@@ -4180,7 +4818,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6017": {
     "id": 6017,
@@ -4192,7 +4831,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6018": {
     "id": 6018,
@@ -4204,7 +4844,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6019": {
     "id": 6019,
@@ -4216,7 +4857,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6020": {
     "id": 6020,
@@ -4228,7 +4870,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6021": {
     "id": 6021,
@@ -4240,7 +4883,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6022": {
     "id": 6022,
@@ -4252,7 +4896,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6023": {
     "id": 6023,
@@ -4264,7 +4909,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6024": {
     "id": 6024,
@@ -4276,7 +4922,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6025": {
     "id": 6025,
@@ -4288,7 +4935,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6026": {
     "id": 6026,
@@ -4300,7 +4948,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6027": {
     "id": 6027,
@@ -4312,7 +4961,8 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   },
   "6028": {
     "id": 6028,
@@ -4324,6 +4974,7 @@
     "faction": "Dimensional",
     "class": "Warrior",
     "job": "tank",
-    "isAwakened": false
+    "isAwakened": false,
+    "skins": []
   }
 }
