@@ -73,7 +73,24 @@ Here are some examples:
 178_a_si30_f36_2x.webp
 ```
 
-With all the combinations possible, `437` icons were generated per hero. With the `2x` upscaling, `874` icons are available.
+#### Skins
+Heroes with skins have additional framed icon variants. The skin ID is added after the ascension level with the `_sk` prefix:
+```
+<unit_id>_<ascension>_sk<skin_id>[_si<signature_item_level>][_f<furniture_level>][_e<engravement_level>][_2x].webp
+```
+The available skins for each hero are listed in the `skins` field of `unit.json`. For example, Brutus (ID 9) has 3 skins:
+```
+9_a5_sk901_si30_f9_e80.webp     (Lone Guardian skin)
+9_a5_sk902_si30_f9_e80.webp     (Blazefury skin)
+9_a5_sk903_si30_f9_e80.webp     (Mighty Guardian skin)
+```
+
+![Brutus default](https://raw.githubusercontent.com/afk-mine/cdn/main/framed_unit_icon/9_a5_si30_f9_e80_2x.webp)
+![Brutus Lone Guardian](https://raw.githubusercontent.com/afk-mine/cdn/main/framed_unit_icon/9_a5_sk901_si30_f9_e80_2x.webp)
+![Brutus Blazefury](https://raw.githubusercontent.com/afk-mine/cdn/main/framed_unit_icon/9_a5_sk902_si30_f9_e80_2x.webp)
+![Brutus Mighty Guardian](https://raw.githubusercontent.com/afk-mine/cdn/main/framed_unit_icon/9_a5_sk903_si30_f9_e80_2x.webp)
+
+With all the combinations possible, `437` icons were generated per hero (plus additional variants per skin). With the `2x` upscaling, `874`+ icons are available per hero.
 An example script to generate the name [is available in the scripts folder](https://github.com/afk-mine/cdn/blob/main/scripts/nameGenerator.ts).
 
 #### Pets
