@@ -3833,6 +3833,21 @@
     "isAwakened": false,
     "skins": []
   },
+  "241": {
+    "id": 241,
+    "codeName": "DogD",
+    "names": {
+      "en": "Harvey"
+    },
+    "rarity": "elite",
+    "faction": "Hypogean",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Tank",
+    "secondRole": "Continuous Damage",
+    "isAwakened": false,
+    "skins": []
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -4608,6 +4623,18 @@
       "en": "Dual-Mantle"
     },
     "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false,
+    "skins": []
+  },
+  "1228": {
+    "id": 1228,
+    "codeName": "BossSC",
+    "names": {
+      "en": "Cindercrow Specter"
+    },
+    "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
     "isAwakened": false,

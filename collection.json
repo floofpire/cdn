@@ -134,5 +134,13 @@
     "names": {
       "en": "Sinner's Rose"
     }
+  },
+  "18": {
+    "id": 18,
+    "class": "Ranger",
+    "codeName": "nunassassin",
+    "names": {
+      "en": "Demon Sealer"
+    }
   }
 }
