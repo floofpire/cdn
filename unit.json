@@ -3848,6 +3848,21 @@
     "isAwakened": false,
     "skins": []
   },
+  "242": {
+    "id": 242,
+    "codeName": "LadyDracula",
+    "names": {
+      "en": "Dracula"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Heal",
+    "isAwakened": false,
+    "skins": []
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -4635,6 +4650,18 @@
       "en": "Cindercrow Specter"
     },
     "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false,
+    "skins": []
+  },
+  "1234": {
+    "id": 1234,
+    "codeName": "RBossSoulSpider",
+    "names": {
+      "en": "Netherspinner"
+    },
+    "faction": "Dimensional",
     "class": "Mage",
     "job": "magician",
     "isAwakened": false,
