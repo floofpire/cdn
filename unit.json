@@ -2730,6 +2730,10 @@
       {
         "id": 16801,
         "name": "Frost Fairy"
+      },
+      {
+        "id": 16802,
+        "name": "Nocturnal Eclipse"
       }
     ]
   },
@@ -3860,6 +3864,21 @@
     "job": "magician",
     "mainRole": "Continuous Damage",
     "secondRole": "Heal",
+    "isAwakened": false,
+    "skins": []
+  },
+  "243": {
+    "id": 243,
+    "codeName": "Dyandere",
+    "names": {
+      "en": "Serennia"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Control",
     "isAwakened": false,
     "skins": []
   },
