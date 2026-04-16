@@ -3882,6 +3882,21 @@
     "isAwakened": false,
     "skins": []
   },
+  "244": {
+    "id": 244,
+    "codeName": "PrideD",
+    "names": {
+      "en": "Hybris"
+    },
+    "rarity": "legendary",
+    "faction": "Hypogean",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Burst Damage",
+    "secondRole": "Debuff",
+    "isAwakened": true,
+    "skins": []
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",

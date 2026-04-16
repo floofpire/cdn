@@ -237,6 +237,7 @@
 241,"DogD","Harvey","elite","Hypogean","Warrior","tank","Tank","Continuous Damage",false,,,,,,
 242,"LadyDracula","Dracula","elite","Dimensional","Mage","magician","Continuous Damage","Heal",false,,,,,,
 243,"Dyandere","Serennia","elite","Draconis","Ranger","archer","Continuous Damage","Control",false,,,,,,
+244,"PrideD","Hybris","legendary","Hypogean","Warrior","tank","Burst Damage","Debuff",true,,,,,,
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false,,,,,,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false,,,,,,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false,,,,,,
