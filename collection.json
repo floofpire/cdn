@@ -142,5 +142,21 @@
     "names": {
       "en": "Demon Sealer"
     }
+  },
+  "19": {
+    "id": 19,
+    "class": "Mage",
+    "codeName": "selene",
+    "names": {
+      "en": "Crescent Wheel"
+    }
+  },
+  "20": {
+    "id": 20,
+    "class": "Support",
+    "codeName": "siren",
+    "names": {
+      "en": "Ashen Tide Relic"
+    }
   }
 }

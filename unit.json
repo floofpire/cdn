@@ -2754,6 +2754,10 @@
       {
         "id": 16901,
         "name": "Radiant Blessings"
+      },
+      {
+        "id": 16902,
+        "name": "Radiance in Ruin"
       }
     ]
   },
@@ -3925,6 +3929,36 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Control",
     "isAwakened": false,
+    "skins": []
+  },
+  "247": {
+    "id": 247,
+    "codeName": "Puppeteer",
+    "names": {
+      "en": "Judy & Punch"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Continuous Damage",
+    "secondRole": "Buff",
+    "isAwakened": false,
+    "skins": []
+  },
+  "248": {
+    "id": 248,
+    "codeName": "Sapostle",
+    "names": {
+      "en": "Eluard"
+    },
+    "rarity": "legendary",
+    "faction": "Lightbearer",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Burst Damage",
+    "secondRole": "Control",
+    "isAwakened": true,
     "skins": []
   },
   "1003": {
