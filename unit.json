@@ -3961,6 +3961,21 @@
     "isAwakened": true,
     "skins": []
   },
+  "249": {
+    "id": 249,
+    "codeName": "PrankD",
+    "names": {
+      "en": "Trix"
+    },
+    "rarity": "elite",
+    "faction": "Hypogean",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Assassin",
+    "secondRole": "Control",
+    "isAwakened": false,
+    "skins": []
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
