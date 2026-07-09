@@ -3976,6 +3976,21 @@
     "isAwakened": false,
     "skins": []
   },
+  "250": {
+    "id": 250,
+    "codeName": "Dstreet",
+    "names": {
+      "en": "Kyno"
+    },
+    "rarity": "elite",
+    "faction": "Draconis",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Buff",
+    "secondRole": "Control",
+    "isAwakened": false,
+    "skins": []
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
