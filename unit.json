@@ -3644,7 +3644,12 @@
     "mainRole": "Buff",
     "secondRole": "Continuous Damage",
     "isAwakened": false,
-    "skins": []
+    "skins": [
+      {
+        "id": 22701,
+        "name": "Sunlit Angler"
+      }
+    ]
   },
   "228": {
     "id": 228,
@@ -4018,6 +4023,21 @@
     "job": "archer",
     "mainRole": "Control",
     "secondRole": "Continuous Damage",
+    "isAwakened": false,
+    "skins": []
+  },
+  "253": {
+    "id": 253,
+    "codeName": "Dwave",
+    "names": {
+      "en": "Thalassa"
+    },
+    "rarity": "legendary",
+    "faction": "Draconis",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Heal",
+    "secondRole": "Buff",
     "isAwakened": false,
     "skins": []
   },
@@ -4820,6 +4840,18 @@
       "en": "Netherspinner"
     },
     "faction": "Dimensional",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false,
+    "skins": []
+  },
+  "1249": {
+    "id": 1249,
+    "codeName": "RBossProphet",
+    "names": {
+      "en": "Ashen Prophet"
+    },
+    "faction": "Hypogean",
     "class": "Mage",
     "job": "magician",
     "isAwakened": false,
