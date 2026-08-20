@@ -247,6 +247,7 @@
 251,"Athena","Athena","elite","Dimensional","Warrior","tank","Tank","Continuous Damage",false,,,,,,
 252,"Medusa","Medusa","elite","Dimensional","Ranger","archer","Control","Continuous Damage",false,,,,,,
 253,"Dwave","Thalassa","legendary","Draconis","Mage","magician","Heal","Buff",false,,,,,,
+254,"Leopie","Valery","elite","Mauler","Warrior","tank","Tank","Buff",false,,,,,,
 1003,"BossDragonKnight","Kane",,"Hypogean","Warrior","tank",,,false,,,,,,
 1004,"DevilWizard","Hypogean Mage",,"Hypogean","Mage","magician",,,false,,,,,,
 1005,"UndeadTank","Hypogean Elite",,"Hypogean","Warrior","tank",,,false,,,,,,
@@ -344,3 +345,4 @@
 6027,"Grimhoof","Nightfall Pegasus","legendary","Dimensional","Warrior","tank",,,false,,,,,,
 6028,"CarrotRabbit","Count Snickerfang","legendary","Dimensional","Warrior","tank",,,false,,,,,,
 6029,"LunarAries","Twinlum Spirit","legendary","Dimensional","Warrior","tank",,,false,,,,,,
+6030,"CandleDog","Blazefang","legendary","Dimensional","Warrior","tank",,,false,,,,,,
