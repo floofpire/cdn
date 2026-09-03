@@ -4045,7 +4045,7 @@
     "id": 254,
     "codeName": "Leopie",
     "names": {
-      "en": "Valery"
+      "en": "Valeri"
     },
     "rarity": "elite",
     "faction": "Mauler",
@@ -4053,6 +4053,21 @@
     "job": "tank",
     "mainRole": "Tank",
     "secondRole": "Buff",
+    "isAwakened": false,
+    "skins": []
+  },
+  "255": {
+    "id": 255,
+    "codeName": "Colonel",
+    "names": {
+      "en": "Oren"
+    },
+    "rarity": "elite",
+    "faction": "Lightbearer",
+    "class": "Ranger",
+    "job": "archer",
+    "mainRole": "Burst Damage",
+    "secondRole": "Assassin",
     "isAwakened": false,
     "skins": []
   },
