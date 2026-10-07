@@ -4071,6 +4071,36 @@
     "isAwakened": false,
     "skins": []
   },
+  "256": {
+    "id": 256,
+    "codeName": "MonsterE",
+    "names": {
+      "en": "Kafka Hibino"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Buff",
+    "secondRole": "Burst Damage",
+    "isAwakened": false,
+    "skins": []
+  },
+  "257": {
+    "id": 257,
+    "codeName": "Kikoru",
+    "names": {
+      "en": "Kikoru Shinomiya"
+    },
+    "rarity": "elite",
+    "faction": "Dimensional",
+    "class": "Warrior",
+    "job": "tank",
+    "mainRole": "Burst Damage",
+    "secondRole": "Debuff",
+    "isAwakened": false,
+    "skins": []
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
