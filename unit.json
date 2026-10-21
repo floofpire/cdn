@@ -3874,7 +3874,12 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Heal",
     "isAwakened": false,
-    "skins": []
+    "skins": [
+      {
+        "id": 24201,
+        "name": "Sanguine Feast"
+      }
+    ]
   },
   "243": {
     "id": 243,
@@ -3949,7 +3954,12 @@
     "mainRole": "Continuous Damage",
     "secondRole": "Buff",
     "isAwakened": false,
-    "skins": []
+    "skins": [
+      {
+        "id": 24701,
+        "name": "Miss Marionette"
+      }
+    ]
   },
   "248": {
     "id": 248,
@@ -4099,6 +4109,21 @@
     "mainRole": "Burst Damage",
     "secondRole": "Debuff",
     "isAwakened": false,
+    "skins": []
+  },
+  "258": {
+    "id": 258,
+    "codeName": "Sghostq",
+    "names": {
+      "en": "Theowyn"
+    },
+    "rarity": "legendary",
+    "faction": "Graveborn",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Buff",
+    "secondRole": "Debuff",
+    "isAwakened": true,
     "skins": []
   },
   "1003": {
