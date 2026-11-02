@@ -158,5 +158,29 @@
     "names": {
       "en": "Ashen Tide Relic"
     }
+  },
+  "21": {
+    "id": 21,
+    "class": "Support",
+    "codeName": "cursecarrier",
+    "names": {
+      "en": "Cinder Obsidian"
+    }
+  },
+  "22": {
+    "id": 22,
+    "class": "Tank",
+    "codeName": "bdruid",
+    "names": {
+      "en": "Wild Spirit Pact"
+    }
+  },
+  "23": {
+    "id": 23,
+    "class": "Warrior",
+    "codeName": "admiral",
+    "names": {
+      "en": "Wayfinder's Mirror"
+    }
   }
 }

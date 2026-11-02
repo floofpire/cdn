@@ -4126,6 +4126,21 @@
     "isAwakened": true,
     "skins": []
   },
+  "259": {
+    "id": 259,
+    "codeName": "Wheelchair",
+    "names": {
+      "en": "Greisman"
+    },
+    "rarity": "elite",
+    "faction": "Graveborn",
+    "class": "Mage",
+    "job": "magician",
+    "mainRole": "Debuff",
+    "secondRole": "Buff",
+    "isAwakened": false,
+    "skins": []
+  },
   "1003": {
     "id": 1003,
     "codeName": "BossDragonKnight",
@@ -4935,6 +4950,18 @@
     "codeName": "RBossProphet",
     "names": {
       "en": "Ashen Prophet"
+    },
+    "faction": "Hypogean",
+    "class": "Mage",
+    "job": "magician",
+    "isAwakened": false,
+    "skins": []
+  },
+  "1267": {
+    "id": 1267,
+    "codeName": "RBossPlague",
+    "names": {
+      "en": "Plaguebound Knight"
     },
     "faction": "Hypogean",
     "class": "Mage",
